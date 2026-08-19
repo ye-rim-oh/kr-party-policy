@@ -77,23 +77,33 @@ check(
 
 // 문항을 갈아 끼울 때 questions.md를 함께 고치는 것을 자꾸 잊는다. 2026-08-13에 바꾼
 // C5·E4·G3가 이틀 넘게 옛 문구로 남아 있었다. 원본 문서와 데이터가 어긋나면 잡는다.
-const questionsMd = readFileSync(join(root, 'questions.md'), 'utf8');
-const mdText = new Map();
-for (const line of questionsMd.split('\n')) {
-  const m = line.match(/^([A-J]\d+)\.\s+(.*)$/);
-  if (m) mdText.set(m[1], m[2].trim());
+// questions.md는 비공개 리서치 노트라 저장소에는 없다(.gitignore). 로컬에 있을 때만 검사한다.
+let questionsMd = null;
+try {
+  questionsMd = readFileSync(join(root, 'questions.md'), 'utf8');
+} catch (err) {
+  if (err.code !== 'ENOENT') throw err;
 }
-const mdDrift = qfile.questions
-  .filter((q) => mdText.has(q.id) && mdText.get(q.id) !== q.text)
-  .map((q) => q.id);
-const mdMissing = qfile.questions.filter((q) => !mdText.has(q.id)).map((q) => q.id);
-check(
-  'questions.md의 문항 문구가 questions.json과 일치',
-  mdDrift.length === 0 && mdMissing.length === 0,
-  [mdDrift.length ? `문구 불일치: ${mdDrift.join(', ')}` : '', mdMissing.length ? `md에 없음: ${mdMissing.join(', ')}` : '']
-    .filter(Boolean)
-    .join(' / ')
-);
+if (questionsMd) {
+  const mdText = new Map();
+  for (const line of questionsMd.split('\n')) {
+    const m = line.match(/^([A-J]\d+)\.\s+(.*)$/);
+    if (m) mdText.set(m[1], m[2].trim());
+  }
+  const mdDrift = qfile.questions
+    .filter((q) => mdText.has(q.id) && mdText.get(q.id) !== q.text)
+    .map((q) => q.id);
+  const mdMissing = qfile.questions.filter((q) => !mdText.has(q.id)).map((q) => q.id);
+  check(
+    'questions.md의 문항 문구가 questions.json과 일치',
+    mdDrift.length === 0 && mdMissing.length === 0,
+    [mdDrift.length ? `문구 불일치: ${mdDrift.join(', ')}` : '', mdMissing.length ? `md에 없음: ${mdMissing.join(', ')}` : '']
+      .filter(Boolean)
+      .join(' / ')
+  );
+} else {
+  console.log('  skip  questions.md 없음 (비공개 파일) — 원본 대조 생략');
+}
 
 // 같은 코딩값을 가진 문항이 여럿이면 매칭에서 그 축이 배수로 가중된다. 막지는 않고 알린다.
 // 문항 잘못이 아니라 한국 정당 지형에서 우연히 겹친 것일 수 있기 때문이다.
