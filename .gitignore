@@ -1,0 +1,31 @@
+# 의존성 · 빌드 산출물
+node_modules/
+dist/
+*.tsbuildinfo
+
+# OS · 편집기
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# 로그 · 임시
+*.log
+npm-debug.log*
+_codex_task.txt
+.claude_tmp/
+.codex_tmp/
+.claude/
+src/data/_backup.json
+WORKLOG.md
+
+# 내부 리서치 노트 (사이트 빌드에는 불필요, 비공개 유지)
+plan.md
+questions.md
+docs/coding_basis.json
+docs/coding_rationale.md
+docs/research_brief.md
+docs/question_review.md
+docs/findings/
+docs/sources/

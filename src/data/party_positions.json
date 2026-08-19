@@ -1,0 +1,5345 @@
+{
+  "A1": {
+    "dp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "법인세법 일부개정법률안(정부) 의안번호 2212656 — 2025-12-02 본회의 표결 (찬성 168 / 반대 85 / 기권 1, 원안가결)",
+          "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=ARC_E2Y5C0U9J0G3O1R5N3R3W5H7U4C6K2",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-12-02"
+        },
+        {
+          "kind": "assembly",
+          "title": "2025년 개정세법 심의 결과 및 주요 내용 (나보포커스 제129호)",
+          "url": "https://www.nabo.go.kr/board/file/bulkDown.do?idx=9004&bid=68",
+          "publisher": "국회예산정책처",
+          "date": "2025-12-04"
+        },
+        {
+          "kind": "press",
+          "title": "문진석, 정부 법인세 인상 추진에 \"무분별한 감세 원상복구\"",
+          "url": "https://imnews.imbc.com/news/2025/politics/article/6740031_36711.html",
+          "publisher": "MBC",
+          "date": "2025-07-28"
+        },
+        {
+          "kind": "press",
+          "title": "'법인세 인상' 찬반 대립…\"실질세부담 낮아\"vs\"기업투자 부정적\"",
+          "url": "https://www.newsis.com/view/NISX20250810_0003284730",
+          "publisher": "뉴시스",
+          "date": "2025-08-10"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "ppp": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "법인세법 일부개정법률안(정부) 의안번호 2212656 — 2025-12-02 본회의 표결 (찬성 168 / 반대 85 / 기권 1, 원안가결)",
+          "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=ARC_E2Y5C0U9J0G3O1R5N3R3W5H7U4C6K2",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-12-02"
+        },
+        {
+          "kind": "press",
+          "title": "제21대 대통령 선거 주요 후보자 조세분야 공약은?",
+          "url": "https://www.taxtimes.co.kr/news/article.html?no=269659",
+          "publisher": "한국세정신문",
+          "date": "2025-05-13"
+        },
+        {
+          "kind": "press",
+          "title": "'법인세 인상' 찬반 대립…\"실질세부담 낮아\"vs\"기업투자 부정적\"",
+          "url": "https://www.newsis.com/view/NISX20250810_0003284730",
+          "publisher": "뉴시스",
+          "date": "2025-08-10"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "rkp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "법인세법 일부개정법률안(정부) 의안번호 2212656 — 2025-12-02 본회의 표결 (찬성 168 / 반대 85 / 기권 1, 원안가결)",
+          "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=ARC_E2Y5C0U9J0G3O1R5N3R3W5H7U4C6K2",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-12-02"
+        },
+        {
+          "kind": "press",
+          "title": "'법인세 인상' 찬반 대립…\"실질세부담 낮아\"vs\"기업투자 부정적\"",
+          "url": "https://www.newsis.com/view/NISX20250810_0003284730",
+          "publisher": "뉴시스",
+          "date": "2025-08-10"
+        },
+        {
+          "kind": "press",
+          "title": "2026 세제개편안 공방…민주 \"조세 정상화\" vs 혁신 \"투기 조장 우려\"",
+          "url": "https://www.m-economynews.com/news/article.html?no=69406",
+          "publisher": "M이코노미뉴스",
+          "date": "2026-08-04"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "reform": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "법인세법 일부개정법률안(정부) 의안번호 2212656 — 2025-12-02 본회의 표결 (찬성 168 / 반대 85 / 기권 1, 원안가결)",
+          "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=ARC_E2Y5C0U9J0G3O1R5N3R3W5H7U4C6K2",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-12-02"
+        },
+        {
+          "kind": "press",
+          "title": "제21대 대통령 선거 주요 후보자 조세분야 공약은?",
+          "url": "https://www.taxtimes.co.kr/news/article.html?no=269659",
+          "publisher": "한국세정신문",
+          "date": "2025-05-13"
+        },
+        {
+          "kind": "press",
+          "title": "이준석 법인세·최저임금 지자체가 결정…이런 공약 경쟁 기대한다",
+          "url": "https://www.hankyung.com/article/2025051277641",
+          "publisher": "한국경제",
+          "date": "2025-05-12"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "법인세법 일부개정법률안(정부) 의안번호 2212656 — 2025-12-02 본회의 표결 (찬성 168 / 반대 85 / 기권 1, 원안가결)",
+          "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=ARC_E2Y5C0U9J0G3O1R5N3R3W5H7U4C6K2",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-12-02"
+        },
+        {
+          "kind": "press",
+          "title": "진보당 윤종오, '법인세' '1만 3313명 소득세' 증세 추진",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003152300",
+          "publisher": "오마이뉴스",
+          "date": "2025-07-28"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "justice": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[브리핑] 법인세 최고구간의 세율을 1%라도 깎겠다는 국민의힘, 누구를 위한 정당입니까 (위선희 대변인)",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=154282",
+          "publisher": "정의당",
+          "date": "2022-12-14"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    }
+  },
+  "A2": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "'마용성'은 피해간 종부세, 절반의 개편···'똘똘한 한 채' 억제 효과 의문",
+          "url": "https://www.khan.co.kr/article/202608031800051",
+          "publisher": "경향신문",
+          "date": "2026-08-03"
+        },
+        {
+          "kind": "press",
+          "title": "2026 세제개편안 공방…민주 \"조세 정상화\" vs 혁신 \"투기 조장 우려\"",
+          "url": "https://www.m-economynews.com/news/article.html?no=69406",
+          "publisher": "M이코노미뉴스",
+          "date": "2026-08-04"
+        },
+        {
+          "kind": "press",
+          "title": "다주택자 중과 유예, 진짜 끝이라더니... \"양치기 소년식 조세 제도\"",
+          "url": "https://www.hankookilbo.com/news/article/A2026080413510005476",
+          "publisher": "한국일보",
+          "date": "2026-08-04"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "ppp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "국민의힘 \"부동산 보유세·거래세 모두 인상...세금 부담 세입자에 전가될 것\"",
+          "url": "https://www.newspim.com/news/view/20260803001371",
+          "publisher": "뉴스핌",
+          "date": "2026-08-03"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "rkp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "조국, 세법개정안 \"투기와 타협…고가 1주택 종부세 부담 여전히 낮아\"",
+          "url": "https://www.sedaily.com/article/20075395",
+          "publisher": "서울경제",
+          "date": "2026-08-04"
+        },
+        {
+          "kind": "press",
+          "title": "2026 세제개편안 공방…민주 \"조세 정상화\" vs 혁신 \"투기 조장 우려\"",
+          "url": "https://www.m-economynews.com/news/article.html?no=69406",
+          "publisher": "M이코노미뉴스",
+          "date": "2026-08-04"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "reform": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "개혁신당 \"정부·여당, 보유세 올리려면 거래세 내려야\"",
+          "url": "https://biz.heraldcorp.com/article/10830367",
+          "publisher": "헤럴드경제",
+          "date": "2026-08-04"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "윤종오 \"세부담 변동 크지 않은 그 아래 구간 더 과열될 수도\"",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256379",
+          "publisher": "오마이뉴스",
+          "date": "2026-08-04"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "justice": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 이재명 정부의 부동산시장 안정, 보유세 강화는 필수다",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=165716",
+          "publisher": "정의당",
+          "date": "2025-10-14"
+        },
+        {
+          "kind": "party",
+          "title": "[보도자료] 10·15 부동산 대책, 부동산 보유세 신속히 강화하라!",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=165728",
+          "publisher": "정의당",
+          "date": "2025-10-20"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    }
+  },
+  "A3": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "[2026 세제개편] 다주택자 양도세 중과 2년간 낮춘다…2주택 최고세율 65%→50%",
+          "url": "https://www.newspim.com/news/view/20260801000159",
+          "publisher": "뉴스핌",
+          "date": "2026-08-03"
+        },
+        {
+          "kind": "press",
+          "title": "다주택자 중과 유예, 진짜 끝이라더니... \"양치기 소년식 조세 제도\"",
+          "url": "https://www.hankookilbo.com/news/article/A2026080413510005476",
+          "publisher": "한국일보",
+          "date": "2026-08-04"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "ppp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "다주택자 양도세 중과 유예 종료…野 \"징벌적 과세\" 與 \"악의적 선동\"",
+          "url": "http://v.daum.net/v/20260509154052541",
+          "publisher": "뉴스1",
+          "date": "2026-05-09"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "rkp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "조국, 세법개정안 \"투기와 타협…고가 1주택 종부세 부담 여전히 낮아\"",
+          "url": "https://www.sedaily.com/article/20075395",
+          "publisher": "서울경제",
+          "date": "2026-08-04"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "reform": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "개혁신당 \"정부·여당, 보유세 올리려면 거래세 내려야\"",
+          "url": "https://biz.heraldcorp.com/article/10830367",
+          "publisher": "헤럴드경제",
+          "date": "2026-08-04"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 진보당 부동산 세제정상화 3법 발의 추진 \"종부세·양도세 정상화, 토초세 도입 국민 주거 안정 실현할 것\"",
+          "url": "https://jinboparty.com/pages/?p=286&b=B_1_111&m=read&bn=16568",
+          "publisher": "진보당",
+          "date": "2026-03-17"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "justice": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[성명] 이재명 정부는 흔들림 없이 다주택자 양도세 중과 시행하라",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=166040",
+          "publisher": "정의당",
+          "date": "2026-01-27"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    }
+  },
+  "A4": {
+    "dp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "2025년도 제2회 추가경정예산안에 대한 수정안(문진석의원 외 166인) 의안번호 2210977 — 2025-07-04 본회의 표결 (찬성 168 / 반대 3 / 기권 11, 재석 182 / 재적 298)",
+          "url": "https://likms.assembly.go.kr/bill/bi/bill/state/voteInfoDetailPage.do?billId=PRC_E2U5O0Z7M0C4C2A0R2F6T2H4T9Q3H1",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-07-04"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "ppp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "[이슈픽] 소비쿠폰과 포퓰리즘…박수영 의원 \"25만 원 필요없다\"",
+          "url": "https://newseyes.net/news/4559",
+          "publisher": "뉴스아이즈",
+          "date": "2025-07-07"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "rkp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "조국혁신당 \"오세훈, 소비쿠폰이 부동산 가격 올린다고 황당한 주장\"",
+          "url": "http://v.daum.net/v/20251104150816611",
+          "publisher": "뉴시스",
+          "date": "2025-11-04"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "reform": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "2025년도 제2회 추가경정예산안에 대한 수정안(문진석의원 외 166인) 의안번호 2210977 — 2025-07-04 본회의 표결 (찬성 168 / 반대 3 / 기권 11, 재석 182 / 재적 298)",
+          "url": "https://likms.assembly.go.kr/bill/bi/bill/state/voteInfoDetailPage.do?billId=PRC_E2U5O0Z7M0C4C2A0R2F6T2H4T9Q3H1",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-07-04"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 진보당, 민생회복지원금 소비처 생계형 노점상까지 확대해야",
+          "url": "https://jinboparty.com/pages/?p=286&b=B_1_111&m=read&bn=14285",
+          "publisher": "진보당",
+          "date": "2025-07-18"
+        },
+        {
+          "kind": "party",
+          "title": "[정혜경 원내대변인 서면브리핑] 민생추경의 관건은 속도전",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=14054",
+          "publisher": "진보당",
+          "date": "2025-06-26"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "justice": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[브리핑] 정호진 수석대변인, 폭넓고 두터운 코로나 피해지원은 손실보상과 전 국민 재난지원금 투트랙으로 가야/요양보호사 심야대기시간 근로시간 인정",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=138905",
+          "publisher": "정의당",
+          "date": "2021-02-22"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    }
+  },
+  "A5": {
+    "dp": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "상속세 및 증여세법 일부개정법률안(정부) 의안번호 2203525 — 2024-12-10 본회의 표결. 최고세율 50%→40% 인하 등이 골자였으나 부결 (찬성 97 / 반대 181 / 기권 3)",
+          "url": "https://likms.assembly.go.kr/bill/bi/bill/state/voteInfoDetailPage.do?billId=ARC_X2O4L0L9E0U2G1R6D4J8E2F0U7Q1H1",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-12-10"
+        },
+        {
+          "kind": "press",
+          "title": "여당 \"민주당 지난해 상속세 개정 부결시켜\"…야당 \"분명한 거짓말\"",
+          "url": "http://v.daum.net/v/20250216160903747",
+          "publisher": "KBS",
+          "date": "2025-02-16"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "ppp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "상속세 및 증여세법 일부개정법률안(정부) 의안번호 2203525 — 2024-12-10 본회의 표결. 최고세율 50%→40% 인하 등이 골자였으나 부결 (찬성 97 / 반대 181 / 기권 3)",
+          "url": "https://likms.assembly.go.kr/bill/bi/bill/state/voteInfoDetailPage.do?billId=ARC_X2O4L0L9E0U2G1R6D4J8E2F0U7Q1H1",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-12-10"
+        }
+      ],
+      "last_verified": "2026-08-07",
+      "verified": true
+    },
+    "rkp": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "상속세 및 증여세법 일부개정법률안(정부) 의안번호 2203525 — 2024-12-10 본회의 표결. 최고세율 50%→40% 인하 등이 골자였으나 부결 (찬성 97 / 반대 181 / 기권 3)",
+          "url": "https://likms.assembly.go.kr/bill/bi/bill/state/voteInfoDetailPage.do?billId=ARC_X2O4L0L9E0U2G1R6D4J8E2F0U7Q1H1",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-12-10"
+        }
+      ],
+      "last_verified": "2026-08-07",
+      "verified": true
+    },
+    "reform": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "상속세 및 증여세법 일부개정법률안(정부) 의안번호 2203525 — 2024-12-10 본회의 표결. 최고세율 50%→40% 인하 등이 골자였으나 부결 (찬성 97 / 반대 181 / 기권 3)",
+          "url": "https://likms.assembly.go.kr/bill/bi/bill/state/voteInfoDetailPage.do?billId=ARC_X2O4L0L9E0U2G1R6D4J8E2F0U7Q1H1",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-12-10"
+        }
+      ],
+      "last_verified": "2026-08-07",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "상속세 및 증여세법 일부개정법률안(정부) 의안번호 2203525 — 2024-12-10 본회의 표결. 최고세율 50%→40% 인하 등이 골자였으나 부결 (찬성 97 / 반대 181 / 기권 3)",
+          "url": "https://likms.assembly.go.kr/bill/bi/bill/state/voteInfoDetailPage.do?billId=ARC_X2O4L0L9E0U2G1R6D4J8E2F0U7Q1H1",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-12-10"
+        }
+      ],
+      "last_verified": "2026-08-07",
+      "verified": true
+    },
+    "justice": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 민주주의 파괴하는 상속세 개악 중단하라!",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=164682",
+          "publisher": "정의당",
+          "date": "2025-03-17"
+        }
+      ],
+      "last_verified": "2026-08-07",
+      "verified": true
+    }
+  },
+  "A6": {
+    "dp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "[속보]내년 국가채무 1415조, GDP 대비 50% 넘어서",
+          "url": "https://www.khan.co.kr/article/202508291111001",
+          "publisher": "경향신문",
+          "date": "2025-08-29"
+        },
+        {
+          "kind": "press",
+          "title": "[이재명 정부 1년] 확장재정 전환·예산처 부활…재정건전성 논란은 숙제",
+          "url": "https://www.dailian.co.kr/news/view/1649743/",
+          "publisher": "데일리안",
+          "date": "2026-05-29"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "ppp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "국힘, 내년도 예산 800조 편성 예고에 \"'미래 위한 투자' 아닌 '미래 약탈 행위'\"",
+          "url": "https://www.truthguardian.co.kr/news/article.html?no=28100",
+          "publisher": "트루스가디언",
+          "date": "2026-07-14"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "rkp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[임명희 대변인] 이재명 정부의 선제적 재정 투입을 환영하며, ‘에너지 수요관리’와 ‘구조적 전환’을 위한 실질적 보완을 촉구합니다",
+          "url": "https://rebuildingkoreaparty.kr/news/commentary-briefing/7130",
+          "publisher": "조국혁신당",
+          "date": "2026-04-02"
+        },
+        {
+          "kind": "party",
+          "title": "[6.3 지방선거] 사회권 선진국 10대 주요 공약 발표문",
+          "url": "https://rebuildingkoreaparty.kr/news/policy-briefing/7574",
+          "publisher": "조국혁신당",
+          "date": "2026-05-13"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "reform": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "정이한 대변인ㅣ‘빛’ 좋은 개살구, ‘빚’으로 쌓아 올린 사상누각… 대통령의 자화자찬이 국민의 등골을 뺍니다",
+          "url": "https://reformparty.kr/news/briefing/1945-briefing-1275",
+          "publisher": "개혁신당",
+          "date": "2025-12-03"
+        },
+        {
+          "kind": "party",
+          "title": "급증한 정부부채와 6500조 나랏빛, 선거 앞 돈풀기에 대한 경고입니다.ㅣ신정욱 부대변인",
+          "url": "https://reformparty.kr/news/briefing/2109-briefing-1436",
+          "publisher": "개혁신당",
+          "date": "2026-03-23"
+        },
+        {
+          "kind": "party",
+          "title": "김민규 대변인 | 공공부채 700조 시대, ‘아랫돌 돌려막기’로는 해결할 수 없습니다 | 2024년 6월 9일",
+          "url": "https://reformparty.kr/news/briefing/1013-briefing-346",
+          "publisher": "개혁신당",
+          "date": "2024-06-09"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 2025 예산안 진보당 입장 발표 기자회견 \"일하는 사람들에게 힘이 되는 예산, 만들겠습니다\"",
+          "url": "https://jinboparty.com/pages/?p=286&b=B_1_111&m=read&bn=11636",
+          "publisher": "진보당",
+          "date": "2024-11-07"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "justice": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 이정미 대표, 정부 추진 재정준칙 입법화 관련 sns 메시지",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=156485",
+          "publisher": "정의당",
+          "date": "2023-04-03"
+        },
+        {
+          "kind": "party",
+          "title": "[브리핑] 비정규직-정규직 간 임금 차 166만원, 불평등 악화에 재정긴축은 감기에 얼음찜질하는 격",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=160966",
+          "publisher": "정의당",
+          "date": "2023-10-25"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    }
+  },
+  "B1": {
+    "dp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "[수습·장애인·업종별 차별금지] '모두를 위한 최저임금법' 발의됐다",
+          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=221870",
+          "publisher": "매일노동뉴스",
+          "date": "2024-06-03"
+        },
+        {
+          "kind": "press",
+          "title": "[단독] 민주당, '최저임금 차등적용' 대신 '소상공인 별도 지원책' 검토",
+          "url": "https://mbiz.heraldcorp.com/article/3414614",
+          "publisher": "헤럴드경제",
+          "date": "2024-06-14"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "ppp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "업종·지역·기업별로 다르게…고동진, 최저임금 개정안 발의",
+          "url": "https://biz.heraldcorp.com/article/10642987",
+          "publisher": "헤럴드경제",
+          "date": "2025-12-24"
+        },
+        {
+          "kind": "press",
+          "title": "김소희 의원, '소상공인 최저임금 구분 적용' 법안 발의…\"규모·지역별 근거 추가\"",
+          "url": "https://www.newspim.com/news/view/20260715001096",
+          "publisher": "뉴스핌",
+          "date": "2026-07-15"
+        },
+        {
+          "kind": "party",
+          "title": "[고동진의원실] 20대 4명중 1명 ‘최저임금’ 만큼도 못 받아(24.07.19.)",
+          "url": "https://www.peoplepowerparty.kr/news/lawmaker_inspection_view/104073?page=3",
+          "publisher": "국민의힘",
+          "date": "2024-10-28"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "rkp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "[보도자료] 최저임금 차별 철폐! 온전한 최저임금 인상! 정책토론회",
+          "url": "https://nodong.org/statement/7857140",
+          "publisher": "전국민주노동조합총연맹",
+          "date": "2024-06-04"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "reform": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "다시 화두가 된 '지역별 최저임금 차등 결정'… 개혁신당 주장한 \"헌법상 최저임금, 단일기준 강제 아냐\"는 거짓",
+          "url": "https://www.metroseoul.co.kr/article/20250520500408",
+          "publisher": "메트로신문",
+          "date": "2025-05-20"
+        },
+        {
+          "kind": "press",
+          "title": "감세도 돈풀기도 없는 이준석…\"지방·외국인 최저임금 차등 적용\"",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02309126642169576",
+          "publisher": "이데일리",
+          "date": "2025-05-16"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[이미선 대변인 서면브리핑] 최저임금 업종별 차등 적용 부결을 적극 환영한다!",
+          "url": "https://jinboparty.com/pages/?p=15&b=b_1_2&bn=17224&m=read",
+          "publisher": "진보당",
+          "date": "2026-06-19"
+        },
+        {
+          "kind": "party",
+          "title": "[보도자료] 정혜경 의원, 양대노총과 특고·플랫폼 노동자 최저임금 적용 및 최저임금 차별 적용 조항 폐지 촉구",
+          "url": "https://jinboparty.com/pages/?p=286&b=b_1_111&bn=17159&m=read",
+          "publisher": "진보당",
+          "date": "2026-06-08"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "justice": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[브리핑] 최저임금 차등적용 불가. 정부는 최저임금 논의를 편협하게 몰고 가서는 안 됩니다. [김희서 수석대변인]",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=157944",
+          "publisher": "정의당",
+          "date": "2023-06-13"
+        },
+        {
+          "kind": "party",
+          "title": "[보도자료] 정의당, 최저임금 차등적용 반대 시위 관련 (서면)",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=163831",
+          "publisher": "정의당",
+          "date": "2024-06-26"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    }
+  },
+  "B2": {
+    "dp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 더불어민주당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EB%8D%94%EB%B6%88%EC%96%B4%EB%AF%BC%EC%A3%BC%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_100_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-09",
+      "verified": true
+    },
+    "ppp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 국민의힘 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EA%B5%AD%EB%AF%BC%EC%9D%98%ED%9E%98_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_200_20260511_2.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-09",
+      "verified": true
+    },
+    "rkp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "조국혁신당 \"주 노동 시간 52시간 흥정 대상 아냐…다른 방안 찾아야\"",
+          "url": "http://v.daum.net/v/20260810102153537",
+          "publisher": "뉴시스",
+          "date": "2026-08-10"
+        },
+        {
+          "kind": "party",
+          "title": "[6.3 지방선거] 조국혁신당 '노동 공약' 발표문",
+          "url": "https://rebuildingkoreaparty.kr/news/policy-briefing/7507",
+          "publisher": "조국혁신당",
+          "date": "2026-04-30"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "reform": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "이유원 부대변인｜준비없는 주 4일제·4.5일제, 민주당과 국민의힘의 공허한 포퓰리즘 경쟁｜2025년 5월 1일",
+          "url": "https://reformparty.kr/news/briefing/1556-briefing-883",
+          "publisher": "개혁신당",
+          "date": "2025-05-01"
+        },
+        {
+          "kind": "party",
+          "title": "김민규 대변인｜이재명의 ‘기본사회’, 포퓰리즘 선언일 뿐이다.｜2025년 5월 23일",
+          "url": "https://reformparty.kr/news/briefing/1643-briefing-969",
+          "publisher": "개혁신당",
+          "date": "2025-05-23"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "근로기준법 일부개정법률안(정혜경의원 등 10인), 의안번호 2205237",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2Q4Y1Y0W2D1C1B4Z0I3H5E8A2Z4Y5",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-11-05"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 정의당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A0%95%EC%9D%98%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_730_20260511_2.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-09",
+      "verified": true
+    }
+  },
+  "B3": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "파견근로자 보호 등에 관한 법률 일부개정법률안(송옥주의원 등 17인), 의안번호 2204044",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2U4V0T9U1S0S1B3Z5Z9Y4Y8W3X4F0",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-09-13"
+        },
+        {
+          "kind": "assembly",
+          "title": "파견근로자 보호 등에 관한 법률 일부개정법률안(이인영의원 등 11인), 의안번호 2201458",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2R4S0Q6Q0Y5Z1X0X3W9U0V2D5D9B6",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-07-08"
+        },
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 더불어민주당 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY8",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-10"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "ppp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "[논평] 최수진 원내수석대변인, 정부여당 노동정책 관련",
+          "url": "https://biz.heraldcorp.com/article/10715171",
+          "publisher": "헤럴드경제(개인 공식 논평 인용 보도)",
+          "date": "2026-04-12"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "rkp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 조국혁신당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A1%B0%EA%B5%AD%ED%98%81%EC%8B%A0%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_5077_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-09",
+      "verified": true
+    },
+    "reform": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[260427_개혁신당 보도자료] 개혁신당 제 69차 최고위원회의 모두발언",
+          "url": "https://reformparty.kr/news/press/695-press-794",
+          "publisher": "개혁신당",
+          "date": "2026-04-27"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 진보당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A7%84%EB%B3%B4%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_5010_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        },
+        {
+          "kind": "party",
+          "title": "진보당 강령",
+          "url": "https://jinboparty.com/pages/?p=320&introduce=rules",
+          "publisher": "진보당",
+          "date": "2026-08-11"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 정의당 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY5",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        },
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 민주노동당 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY8",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-30"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    }
+  },
+  "B4": {
+    "dp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "중대재해 처벌 등에 관한 법률 일부개정법률안 의안번호 2212746 — 박홍배의원 등 12인 발의. 실질적 지배·결정 지위에 있는 자를 경영책임자로 보고 과징금 제도를 신설하는 강화안",
+          "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_O2W5T0S9B0A3X1F6E5B9A0Z1I4F5E2",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-09-05"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "ppp": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "중대재해 처벌 등에 관한 법률 일부개정법률안 의안번호 2200549 — 임이자의원 등 108인 발의. 5~50인 미만 사업장에 중대산업재해 규정을 공포 후 2년간 적용하지 않도록 하는 유예안",
+          "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_H2Y4P0M6U1R7A1D5B3R3P0B6Z0D2F0",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-06-17"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "rkp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "중대재해 처벌 등에 관한 법률 일부개정법률안 의안번호 2216755 — 정춘생의원 등 16인 발의. 플랫폼 운영자에게 안전보건 확보 의무를 신설해 적용 대상을 넓히는 강화안",
+          "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_I2Q5Q1P2P2N2O0N9U4V5T3U1S6T2R1",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-02-11"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "reform": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "이동훈 수석대변인｜이재명 대통령님, 코레일에도 같은 잣대를 적용하십시오｜2025년 8월 20일",
+          "url": "https://reformparty.kr/news/briefing/1769-briefing-1097",
+          "publisher": "개혁신당",
+          "date": "2025-08-20"
+        },
+        {
+          "kind": "party",
+          "title": "이동훈 수석대변인ㅣ ‘반(反)기업’만 해온 이재명 정권, 갑자기 ‘기업 걱정’이라니 가증스럽다.",
+          "url": "https://reformparty.kr/news/briefing/1829-briefing-1159",
+          "publisher": "개혁신당",
+          "date": "2025-10-01"
+        },
+        {
+          "kind": "party",
+          "title": "이재명 대통령의 ‘어쩌라고’ 기자회견, “어쩌자고 대통령이 됐습니까?”ㅣ이동훈 수석대변인",
+          "url": "https://reformparty.kr/news/briefing/2024-briefing-1355",
+          "publisher": "개혁신당",
+          "date": "2026-01-21"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 중대재해처벌법 4년.. 진보당 정혜경 \"사업주·경영책임자는 왜 아직도 책임에서 자유로운가\"",
+          "url": "https://jinboparty.com/pages/?p=286&b=B_1_111&m=read&bn=16167",
+          "publisher": "진보당",
+          "date": "2026-01-26"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 7일간 노동자 7명이 죽었다, 중대재해처벌법 강화하라",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=164697",
+          "publisher": "정의당",
+          "date": "2025-03-20"
+        },
+        {
+          "kind": "party",
+          "title": "[브리핑] 국민의힘의 중대재해처벌법 추가 유예안 상정 시도에 맞서겠습니다 (김민정 대변인)",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=162577",
+          "publisher": "정의당",
+          "date": "2024-02-26"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    }
+  },
+  "B5": {
+    "dp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "노동조합 및 노동관계조정법 일부개정법률안(대안) 의안번호 2211924 — 2025-08-24 본회의 표결 (찬성 183 / 반대 3 / 기권 0, 원안가결). 대안반영폐기 의안 7건 목록 포함",
+          "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_W2O5V0N7I2N8G1J9L0H0Q4K2K0U3V6",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-08-24"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "ppp": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "노동조합 및 노동관계조정법 일부개정법률안(대안) 의안번호 2202444 — 2024-08-05 가결 후 정부재의(2024-08-19), 재의결 부결(2024-09-26)",
+          "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_B2U4G0H7Y1F7C1X7H3D1A3O8J9V2Q2",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-09-26"
+        },
+        {
+          "kind": "assembly",
+          "title": "노동조합 및 노동관계조정법 일부개정법률안(대안) 의안번호 2211924 — 2025-08-24 본회의 표결 (찬성 183 / 반대 3 / 기권 0, 원안가결). 대안반영폐기 의안 7건 목록 포함",
+          "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_W2O5V0N7I2N8G1J9L0H0Q4K2K0U3V6",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-08-24"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "rkp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "노동조합 및 노동관계조정법 일부개정법률안(대안) 의안번호 2211924 — 2025-08-24 본회의 표결 (찬성 183 / 반대 3 / 기권 0, 원안가결). 대안반영폐기 의안 7건 목록 포함",
+          "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_W2O5V0N7I2N8G1J9L0H0Q4K2K0U3V6",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-08-24"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "reform": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "노동조합 및 노동관계조정법 일부개정법률안(대안) 의안번호 2211924 — 2025-08-24 본회의 표결 (찬성 183 / 반대 3 / 기권 0, 원안가결). 대안반영폐기 의안 7건 목록 포함",
+          "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_W2O5V0N7I2N8G1J9L0H0Q4K2K0U3V6",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-08-24"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "노동조합 및 노동관계조정법 일부개정법률안(대안) 의안번호 2211924 — 2025-08-24 본회의 표결 (찬성 183 / 반대 3 / 기권 0, 원안가결). 대안반영폐기 의안 7건 목록 포함",
+          "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_W2O5V0N7I2N8G1J9L0H0Q4K2K0U3V6",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-08-24"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 더 이상 물러나선 안 된다, 노란봉투법 원안대로 통과시켜라! (권영국 대표)",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=165562",
+          "publisher": "정의당",
+          "date": "2025-08-19"
+        },
+        {
+          "kind": "party",
+          "title": "[보도자료] 노란봉투법과 함께 노동이 당당한 나라로 나아가자 (권영국 대표)",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=165582",
+          "publisher": "정의당",
+          "date": "2025-08-24"
+        }
+      ],
+      "last_verified": "2026-08-06",
+      "verified": true
+    }
+  },
+  "C1": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 더불어민주당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EB%8D%94%EB%B6%88%EC%96%B4%EB%AF%BC%EC%A3%BC%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_100_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        },
+        {
+          "kind": "assembly",
+          "title": "기초연금법 일부개정법률안(이수진의원 등 12인), 의안번호 2211669",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2Q5M0M7L1L5J0K9J2Q0R5P8Q9O5O6",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-07-23"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "ppp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "기초연금법 일부개정법률안(안상훈의원 등 10인), 의안번호 2210790",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2P5P0N5M2N0L1L4T2U8S0T3R5Q7Q0",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-06-13"
+        },
+        {
+          "kind": "assembly",
+          "title": "기초연금법 일부개정법률안(안상훈의원 등 12인), 의안번호 2207556",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q2O4P1N2M2N0U1V8T2U2S4R1R5N6O2",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-01-15"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "rkp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "기초연금법 일부개정법률안(김선민의원 등 12인), 의안번호 2204828",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_K2K4J0Q9R1P0Q1O4P2N9O2W7U7V7T2",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-10-22"
+        },
+        {
+          "kind": "assembly",
+          "title": "기초연금법 일부개정법률안(백선희의원 등 12인), 의안번호 2220388",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2A6B0I7J1I0I0G9H3F2G1O4M0N8L5",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-08-03"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "reform": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "개혁신당 제79차 최고위원회의 모두발언 주요 내용",
+          "url": "https://reformparty.kr/news/press/332-press-340",
+          "publisher": "개혁신당",
+          "date": "2025-03-17"
+        },
+        {
+          "kind": "party",
+          "title": "개혁신당 제9차 최고위원회의 모두발언 주요 내용",
+          "url": "https://reformparty.kr/news/press/421-press-571",
+          "publisher": "개혁신당",
+          "date": "2025-09-01"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 진보당, \"주부들의 가사노동 '사회적 가치'로 인정해야\" 주부연금 신설 제안",
+          "url": "https://jinboparty.com/pages/?p=286&b=B_1_111&m=read&bn=8553",
+          "publisher": "진보당",
+          "date": "2023-02-28"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 민주노동당 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY8",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-30"
+        },
+        {
+          "kind": "press",
+          "title": "기초연금 70만원, 둘째 출산시 2억…파격 공약 내건 군소후보들",
+          "url": "https://v.daum.net/v/20250517050100281",
+          "publisher": "이투데이(다음뉴스)",
+          "date": "2025-05-17"
+        }
+      ],
+      "last_verified": "2026-08-16",
+      "verified": true
+    }
+  },
+  "C2": {
+    "dp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "국민연금법 일부개정법률안(대안) 의안번호 2209191 — 2025-03-20 본회의 원안가결 (재석 277, 찬성 194 / 반대 40 / 기권 43)",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2F5B0R3D2W0F1N4J2E6L4R9L3N6H4",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-03-20"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "ppp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "국민연금법 일부개정법률안(대안) 의안번호 2209191 — 2025-03-20 본회의 원안가결",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2F5B0R3D2W0F1N4J2E6L4R9L3N6H4",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-03-20"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "rkp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "국민연금법 일부개정법률안(대안) 의안번호 2209191 — 2025-03-20 본회의 원안가결",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2F5B0R3D2W0F1N4J2E6L4R9L3N6H4",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-03-20"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "reform": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "국민연금법 일부개정법률안(대안) 의안번호 2209191 — 2025-03-20 본회의 원안가결",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2F5B0R3D2W0F1N4J2E6L4R9L3N6H4",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-03-20"
+        },
+        {
+          "kind": "press",
+          "title": "이준석 \"연금개혁 합의안은 가짜 개혁…60대 정치인 '폭탄 돌리기' 정책\"",
+          "url": "https://www.sisajournal.com/news/articleView.html?idxno=327643",
+          "publisher": "시사저널",
+          "date": "2025-03-20"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 전종덕 의원, 국민연금법 일부개정법률안 국회 반대토론",
+          "url": "https://jinboparty.com/pages/?p=286&b=B_1_111&m=read&bn=13047",
+          "publisher": "진보당",
+          "date": "2025-03-20"
+        },
+        {
+          "kind": "assembly",
+          "title": "국민연금법 일부개정법률안(대안) 의안번호 2209191 — 2025-03-20 본회의 원안가결",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2F5B0R3D2W0F1N4J2E6L4R9L3N6H4",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-03-20"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "justice": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[브리핑] 연금 개혁 공론화 결과대로 21대 국회에서 입법 마무리 합시다",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=163593",
+          "publisher": "정의당",
+          "date": "2024-04-23"
+        },
+        {
+          "kind": "party",
+          "title": "[보도자료] 권영국 후보 연금 공약 발표 - 공적연금 인상으로 존엄한 노후 보장",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=165221",
+          "publisher": "정의당",
+          "date": "2025-05-24"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    }
+  },
+  "C3": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "지방국립대, 이르면 내년부터 '등록금 0원'... 사립대 \"역차별\" 반발",
+          "url": "https://v.daum.net/v/20260805202248080",
+          "publisher": "연합뉴스(다음뉴스)",
+          "date": "2026-08-05"
+        }
+      ],
+      "last_verified": "2026-08-16",
+      "verified": true
+    },
+    "ppp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 국민의힘 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY8",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-26"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "rkp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "조국혁신당 강령",
+          "url": "https://rebuildingkoreaparty.kr/about/platform",
+          "publisher": "조국혁신당",
+          "date": "2024-03-03"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "reform": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "김작가TV 출연 이준석 후보, 경제·주거·미래산업에 대한 대개조 비전 밝혀",
+          "url": "https://reformparty.kr/news/press/350-press-363",
+          "publisher": "개혁신당",
+          "date": "2025-04-18"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 진보당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A7%84%EB%B3%B4%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_5010_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        },
+        {
+          "kind": "party",
+          "title": "진보당 강령",
+          "url": "https://jinboparty.com/pages/?p=320&introduce=rules",
+          "publisher": "진보당",
+          "date": "2026-08-11"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "justice": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 민주노동당 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY8",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-30"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    }
+  },
+  "C4": {
+    "dp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 더불어민주당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EB%8D%94%EB%B6%88%EC%96%B4%EB%AF%BC%EC%A3%BC%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_100_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        },
+        {
+          "kind": "assembly",
+          "title": "아동수당법 일부개정법률안(전진숙의원 등 33인), 의안번호 2200147",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2W4T0N6F0M5T1G4U3I6Q3J8A0A7I1",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-06-11"
+        },
+        {
+          "kind": "assembly",
+          "title": "아동수당법 일부개정법률안(대안)(보건복지위원장), 의안번호 2216768",
+          "url": "https://likms.assembly.go.kr/bill/bi/bill/state/voteInfoDetailPage.do?billId=PRC_Y2R6X0Y1R0L7O1W3Q1G8V0B1A1H3O4",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-03-01"
+        },
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 더불어민주당 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY8",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-10"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "ppp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "아동수당 지급대상 확대 복지위 통과…\"인구감소지역 추가지급은 일단 올해만 적용\"",
+          "url": "https://www.asiae.co.kr/article/2026010714394961991",
+          "publisher": "아시아경제",
+          "date": "2026-01-07"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "rkp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "아동수당법 일부개정법률안(대안)(보건복지위원장), 의안번호 2216768",
+          "url": "https://likms.assembly.go.kr/bill/bi/bill/state/voteInfoDetailPage.do?billId=PRC_Y2R6X0Y1R0L7O1W3Q1G8V0B1A1H3O4",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-03-01"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "reform": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "아동수당법 일부개정법률안(대안)(보건복지위원장), 의안번호 2216768",
+          "url": "https://likms.assembly.go.kr/bill/bi/bill/state/voteInfoDetailPage.do?billId=PRC_Y2R6X0Y1R0L7O1W3Q1G8V0B1A1H3O4",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-03-01"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "아동수당법 일부개정법률안(대안)(보건복지위원장), 의안번호 2216768",
+          "url": "https://likms.assembly.go.kr/bill/bi/bill/state/voteInfoDetailPage.do?billId=PRC_Y2R6X0Y1R0L7O1W3Q1G8V0B1A1H3O4",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-03-01"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 민주노동당 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY8",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-30"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    }
+  },
+  "C5": {
+    "dp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "민주 \"이재명 지시로 소득대체율 43% 여 제안 수용…자동조정장치는 반대\"(종합)",
+          "url": "https://v.daum.net/v/20250314113708734",
+          "publisher": "뉴시스",
+          "date": "2025-03-14"
+        },
+        {
+          "kind": "press",
+          "title": "\"자동조정장치 수용 안해\"…민주당, 연금개혁 입장 원점으로",
+          "url": "https://v.daum.net/v/20250224175906698",
+          "publisher": "데일리안",
+          "date": "2025-02-24"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "ppp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 국민의힘 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY8",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-26"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "rkp": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "조국혁신당 \"연금 자동조정장치는 개악…민주 입장 밝혀라\"",
+          "url": "https://v.daum.net/v/20250224105343911",
+          "publisher": "뉴시스",
+          "date": "2025-02-24"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "reform": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 개혁신당 정당정책",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_%EA%B0%9C%ED%98%81%EC%8B%A0%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20250603/PDF/PARTY_PLC_PUB/007_5070_20250510_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-10"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[정책논평] 이재명 대표의 연금개악 동조? 국민연금 자동조정장치 논의 즉각 중단하라",
+          "url": "https://jinboparty.com/pages/?p=316&b=B_1_126&m=read&bn=12786",
+          "publisher": "진보당 정책위원회",
+          "date": "2025-02-24"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "justice": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 윤석열식 연금개혁안, 세대 갈등 조장과 노인 빈곤 양산이 목적인가 (서면)",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=164032",
+          "publisher": "정의당",
+          "date": "2024-08-28"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    }
+  },
+  "C6": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 더불어민주당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EB%8D%94%EB%B6%88%EC%96%B4%EB%AF%BC%EC%A3%BC%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_100_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        },
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 더불어민주당 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY8",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-10"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "ppp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 국민의힘 정당정책",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_%EA%B5%AD%EB%AF%BC%EC%9D%98%ED%9E%98_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20250603/PDF/PARTY_PLC_PUB/007_200_20250526_2.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-26"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "rkp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "조국혁신당, 공공보건의료 기금 설치 등 공공의료 강화 추진",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=2242214",
+          "publisher": "보사노동뉴스",
+          "date": "2025-02-18"
+        },
+        {
+          "kind": "party",
+          "title": "[6.3 지방선거] 사회권 선진국 10대 주요 공약 발표문",
+          "url": "https://rebuildingkoreaparty.kr/news/policy-briefing/7574",
+          "publisher": "조국혁신당",
+          "date": "2026-05-13"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "reform": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "녹아내리는 건보 재정, 포퓰리즘만 고집하는 이재명 대통령ㅣ남경수 부대변인",
+          "url": "https://reformparty.kr/news/briefing/204627",
+          "publisher": "개혁신당",
+          "date": "2026-08-10"
+        },
+        {
+          "kind": "party",
+          "title": "천수 대신 백수만 누리게 된 청년들, 정부가 실질적 대책을 내놓을 때입니다ㅣ남경수 부대변인",
+          "url": "https://reformparty.kr/news/briefing/203894",
+          "publisher": "개혁신당",
+          "date": "2026-07-23"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 진보당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A7%84%EB%B3%B4%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_5010_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        },
+        {
+          "kind": "party",
+          "title": "진보당 강령",
+          "url": "https://jinboparty.com/pages/?p=320&introduce=rules",
+          "publisher": "진보당",
+          "date": "2026-08-11"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 정의당(민주노동당) 정당정책",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_%EB%AF%BC%EC%A3%BC%EB%85%B8%EB%8F%99%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20250603/PDF/PARTY_PLC_PUB/007_730_20250530_5.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-30"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    }
+  },
+  "D1": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "\"강한 국방과 철통 안보\"",
+          "url": "http://v.daum.net/v/20260327124725605",
+          "publisher": "aiNews24",
+          "date": "2026-03-27"
+        }
+      ],
+      "last_verified": "2026-08-10",
+      "verified": true
+    },
+    "ppp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "대통령실 특활비는 증액, 국방예산은 삭감",
+          "url": "http://v.daum.net/v/20250706180123877",
+          "publisher": "데일리안",
+          "date": "2025-07-06"
+        }
+      ],
+      "last_verified": "2026-08-10",
+      "verified": true
+    },
+    "rkp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[김준형 외교안보특별위원장] 한미동맹을 더 건강하고, 공고하게 유지하기 위해 꼼꼼히 살피겠습니다",
+          "url": "https://rebuildingkoreaparty.kr/news/commentary-briefing/1178",
+          "publisher": "조국혁신당",
+          "date": "2024-10-06"
+        },
+        {
+          "kind": "press",
+          "title": "진보당 \"미국, 동맹국 갈취\"…혁신당 \"국민에 피해 주는 협상 안돼\"",
+          "url": "http://v.daum.net/v/20250729111612910",
+          "publisher": "KBS",
+          "date": "2025-07-29"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "reform": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "연이은 선택적모병제 언급, 지지율 돌파 카드로 던져진 안보 포퓰리즘ㅣ신정욱 부대변인",
+          "url": "https://reformparty.kr/news/briefing/203588",
+          "publisher": "개혁신당",
+          "date": "2026-06-26"
+        },
+        {
+          "kind": "party",
+          "title": "트럼프의 호르무즈 파병 요구, 대한민국은 국익으로 판단해야 합니다.ㅣ이동훈 수석대변인",
+          "url": "https://reformparty.kr/news/briefing/2095-briefing-1424",
+          "publisher": "개혁신당",
+          "date": "2026-03-15"
+        },
+        {
+          "kind": "party",
+          "title": "[260626_개혁신당 부대변인 논평] 연이은 선택적모병제 언급, 지지율 돌파 카드로 던져진 안보 포퓰리즘",
+          "url": "https://reformparty.kr/news/briefing/203588-%ec%97%b0%ec%9d%b4%ec%9d%80-%ec%84%a0%ed%83%9d%ec%a0%81%eb%aa%a8%eb%b3%91%ec%a0%9c-%ec%96%b8%ea%b8%89-%ec%a7%80%ec%a7%80%ec%9c%a8-%eb%8f%8c%ed%8c%8c-%ec%b9%b4%eb%93%9c%eb%a1%9c-%eb%8d%98%ec%a0%b8%ec%a7%84-%ec%95%88%eb%b3%b4-%ed%8f%ac%ed%93%a4%eb%a6%ac%ec%a6%98%ec%8b%a0%ec%a0%95%ec%9a%b1-%eb%b6%80%eb%8c%80%eb%b3%80%ec%9d%b8",
+          "publisher": "개혁신당",
+          "date": "2026-06-26"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[진보당 논평] 국방예산 삭감하고 소상공인 손실보상, 공공병원, 고용보험 등 민생예산 확충하라!",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=6549",
+          "publisher": "진보당",
+          "date": "2021-09-01"
+        }
+      ],
+      "last_verified": "2026-08-10",
+      "verified": true
+    },
+    "justice": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 정의당(민주노동당) 정당정책",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_%EB%AF%BC%EC%A3%BC%EB%85%B8%EB%8F%99%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20250603/PDF/PARTY_PLC_PUB/007_730_20250530_5.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-30"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    }
+  },
+  "D2": {
+    "dp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "여야, 트럼프 취임 한목소리…혈맹 이상 '한미 동맹' 강화",
+          "url": "http://v.daum.net/v/20250120202249826",
+          "publisher": "뉴스1",
+          "date": "2025-01-20"
+        },
+        {
+          "kind": "press",
+          "title": "전작권 전환 시점 놓고 여야 충돌…\"안보 자해\" vs \"정치 공세\"",
+          "url": "http://v.daum.net/v/20260424150234431",
+          "publisher": "쿠키뉴스",
+          "date": "2026-04-24"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "ppp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "군 약해지고 한미동맹 흔들리면 좋아할 건 김정은뿐",
+          "url": "http://v.daum.net/v/20260720110707727",
+          "publisher": "시사저널",
+          "date": "2026-07-20"
+        },
+        {
+          "kind": "press",
+          "title": "전작권 전환 시점 놓고 여야 충돌…\"안보 자해\" vs \"정치 공세\"",
+          "url": "http://v.daum.net/v/20260424150234431",
+          "publisher": "쿠키뉴스",
+          "date": "2026-04-24"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "rkp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[김준형 외교안보특별위원장] 미국의 전략적 유연성 압박, 단호히 거부한다!",
+          "url": "https://rebuildingkoreaparty.kr/news/commentary-briefing/4684",
+          "publisher": "조국혁신당",
+          "date": "2025-07-24"
+        },
+        {
+          "kind": "party",
+          "title": "[김준형 외교안보특별위원장] 한미동맹을 더 건강하고, 공고하게 유지하기 위해 꼼꼼히 살피겠습니다",
+          "url": "https://rebuildingkoreaparty.kr/news/commentary-briefing/1178",
+          "publisher": "조국혁신당",
+          "date": "2024-10-06"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "reform": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "개혁신당 \"李대통령, 지금이라도 입장 바꿔 나토 회의 참석하라\"",
+          "url": "http://v.daum.net/v/20250623110524368",
+          "publisher": "뉴시스",
+          "date": "2025-06-23"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "진보당 의원단, \"평화를 위해, 국회가 한미연합훈련 중단시키자\" 촉구",
+          "url": "https://jinboparty.com/pages/?p=286&b=B_1_111&m=read&bn=14875",
+          "publisher": "진보당",
+          "date": "2025-09-15"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "justice": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[서면브리핑] 이동영 수석대변인, 한미정상회담",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=149632",
+          "publisher": "정의당",
+          "date": "2022-05-21"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    }
+  },
+  "D3": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "민주당 \"미국 '대북 인도적 지원' 승인 환영\"",
+          "url": "http://v.daum.net/v/20260207104645840",
+          "publisher": "KBS",
+          "date": "2026-02-07"
+        }
+      ],
+      "last_verified": "2026-08-10",
+      "verified": true
+    },
+    "ppp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "정부 잇단 유화책에도 '묵묵부답' 北…\"속도 너무 빠르다\" 커지는 신중론",
+          "url": "http://v.daum.net/v/20250805140045150",
+          "publisher": "뉴스1",
+          "date": "2025-08-05"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "rkp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[박찬규 부대변인] 대북 관계, 조건없는 대화가 먼저다",
+          "url": "https://rebuildingkoreaparty.kr/news/commentary-briefing/5256",
+          "publisher": "조국혁신당",
+          "date": "2025-10-01"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "reform": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "개혁신당 제16차 최고위원회의 모두발언 주요 내용ㅣ2025년 9월 25일",
+          "url": "https://reformparty.kr/news/press/512-press-589",
+          "publisher": "개혁신당",
+          "date": "2025-09-25"
+        },
+        {
+          "kind": "party",
+          "title": "미사일 쏘는 북한을 조선이라 부르자는 두 국가론ㅣ고금란 대변인",
+          "url": "https://reformparty.kr/news/briefing/204522",
+          "publisher": "개혁신당",
+          "date": "2026-08-07"
+        },
+        {
+          "kind": "party",
+          "title": "공공의 적으로 전락한 통일부, 이상주의보다 '이상한 장관'이 원인입니다ㅣ남경수 부대변인",
+          "url": "https://reformparty.kr/news/briefing/204520",
+          "publisher": "개혁신당",
+          "date": "2026-08-07"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[신미연 대변인 브리핑] 9.19군사분야 복원 결정, 즉각 조치로 접경지역 평화를 구축해야 합니다",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=16118",
+          "publisher": "진보당",
+          "date": "2026-01-21"
+        },
+        {
+          "kind": "party",
+          "title": "[신미연 대변인 브리핑] 대통령의 유감표명과 북한의 호응, 남북 단절 깨뜨린 첫 신호, 긴장완화에 속도를 내야 할 때",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=16747",
+          "publisher": "진보당",
+          "date": "2026-04-07"
+        }
+      ],
+      "last_verified": "2026-08-10",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[브리핑] 장태수 선대위 대변인, 코로나19 관련 대북 인도적 지원을 촉구합니다",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=149447",
+          "publisher": "정의당",
+          "date": "2022-05-13"
+        },
+        {
+          "kind": "party",
+          "title": "[성명] 접경지역 평화 가져올 대북전단 제한 법안 환영한다",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=165693",
+          "publisher": "정의당",
+          "date": "2025-09-26"
+        }
+      ],
+      "last_verified": "2026-08-10",
+      "verified": true
+    }
+  },
+  "D4": {
+    "dp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "김문수 \"한미동맹 안에서 핵무장\" vs 이재명 \"미국이 수용하겠나\"",
+          "url": "http://v.daum.net/v/20250528000503883",
+          "publisher": "한겨레",
+          "date": "2025-05-28"
+        },
+        {
+          "kind": "press",
+          "title": "핵무장·방첩사·방위비… 대선후보 안보정책 토론",
+          "url": "http://v.daum.net/v/20250528000901044",
+          "publisher": "연합뉴스",
+          "date": "2025-05-28"
+        }
+      ],
+      "last_verified": "2026-08-10",
+      "verified": true
+    },
+    "ppp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "김문수, 전술핵 재배치·핵추진잠수함 개발 추진",
+          "url": "http://v.daum.net/v/20250509111409209",
+          "publisher": "서울경제",
+          "date": "2025-05-09"
+        },
+        {
+          "kind": "press",
+          "title": "김문수 \"한미동맹 안에서 핵무장\" vs 이재명 \"미국이 수용하겠나\"",
+          "url": "http://v.daum.net/v/20250528000503883",
+          "publisher": "한겨레",
+          "date": "2025-05-28"
+        }
+      ],
+      "last_verified": "2026-08-10",
+      "verified": true
+    },
+    "rkp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "혁신당 \"'민감국가 지정' 핵 보유 공언 때문… 윤석열, 대통령 자리 내려와야\"",
+          "url": "http://v.daum.net/v/20250318103640356",
+          "publisher": "KBS",
+          "date": "2025-03-18"
+        }
+      ],
+      "last_verified": "2026-08-10",
+      "verified": true
+    },
+    "reform": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제91차 개혁신당 최고위원회의 이준석 당대표 백브리핑ㅣ2026년 8월 13일",
+          "url": "https://reformparty.kr/news/press/204794",
+          "publisher": "개혁신당",
+          "date": "2026-08-13"
+        },
+        {
+          "kind": "party",
+          "title": "문성호 대변인｜사법리스크 질문에 끝까지 거짓으로 국민을 속이는, 이재명에게 대한민국의 국정을 맡길 수 없다",
+          "url": "https://reformparty.kr/news/briefing/1666-briefing-993",
+          "publisher": "개혁신당",
+          "date": "2025-05-28"
+        },
+        {
+          "kind": "party",
+          "title": "김성열 수석대변인 | 안보팔이 대신 실질적 평화 유지책을 요구합니다",
+          "url": "https://reformparty.kr/news/briefing/1062-briefing-395",
+          "publisher": "개혁신당",
+          "date": "2024-06-26"
+        },
+        {
+          "kind": "party",
+          "title": "제17차 개혁신당 최고위원회의 모두발언 주요 내용",
+          "url": "https://reformparty.kr/news/press/176-press-180",
+          "publisher": "개혁신당",
+          "date": "2024-06-26"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[노혜령 대변인 브리핑] 미국의 새 핵전략 논의, 한반도를 전쟁의 불구덩이로 몰아넣지 말아야",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=17686",
+          "publisher": "진보당",
+          "date": "2026-08-07"
+        }
+      ],
+      "last_verified": "2026-08-10",
+      "verified": true
+    },
+    "justice": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[브리핑] 미군 전술핵 배치는 득이 아니라 '독'입니다 [예윤해 부대변인]",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=153329",
+          "publisher": "정의당",
+          "date": "2022-10-14"
+        }
+      ],
+      "last_verified": "2026-08-10",
+      "verified": true
+    }
+  },
+  "D5": {
+    "dp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "\"주진우 개입, 명백한 권력 사유화\" 윤석열 '제3자 변제' 전면 수사 촉구",
+          "url": "http://v.daum.net/v/20260320194829747",
+          "publisher": "JTBC",
+          "date": "2026-03-20"
+        },
+        {
+          "kind": "press",
+          "title": "野 \"尹대통령, 한일 정상회담서 굴욕적 외교\"",
+          "url": "http://v.daum.net/v/20240906191227296",
+          "publisher": "연합뉴스",
+          "date": "2024-09-06"
+        }
+      ],
+      "last_verified": "2026-08-10",
+      "verified": true
+    },
+    "ppp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "與, 강제동원 '제3자 변제'에 \"국익·미래 위한 대승적 결단\"",
+          "url": "http://v.daum.net/v/20230306172139087",
+          "publisher": "뉴스1",
+          "date": "2023-03-06"
+        }
+      ],
+      "last_verified": "2026-08-10",
+      "verified": true
+    },
+    "rkp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "野 \"尹대통령, 한일 정상회담서 굴욕적 외교\"",
+          "url": "http://v.daum.net/v/20240906191227296",
+          "publisher": "연합뉴스",
+          "date": "2024-09-06"
+        }
+      ],
+      "last_verified": "2026-08-10",
+      "verified": true
+    },
+    "reform": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제30차 개혁신당 광주 현장 최고위원회의 모두발언 주요 내용",
+          "url": "https://reformparty.kr/news/press/209-press-207",
+          "publisher": "개혁신당",
+          "date": "2024-08-22"
+        },
+        {
+          "kind": "party",
+          "title": "이혜숙 부대변인｜침략국 마음까지 이해해야 하는 대일 굴욕 외교, 혹세무민하지 마십시오",
+          "url": "https://reformparty.kr/news/briefing/1195-briefing-528",
+          "publisher": "개혁신당",
+          "date": "2024-08-19"
+        },
+        {
+          "kind": "party",
+          "title": "개혁신당 제주 청년 간담회 이준석 당대표 백브리핑 질의응답 주요 내용",
+          "url": "https://reformparty.kr/news/press/581-press-676",
+          "publisher": "개혁신당",
+          "date": "2025-12-31"
+        },
+        {
+          "kind": "party",
+          "title": "개혁신당 제17차 최고위원회의 이준석 당대표 '백브리핑' 주요 내용",
+          "url": "https://reformparty.kr/news/press/517-press-594",
+          "publisher": "개혁신당",
+          "date": "2025-09-29"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[손솔 수석대변인 서면브리핑] 한일정상회담, 과거사에 대한 사죄‧책임 분명히 해야",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=16026",
+          "publisher": "진보당",
+          "date": "2026-01-12"
+        }
+      ],
+      "last_verified": "2026-08-10",
+      "verified": true
+    },
+    "justice": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 이정미 대표, 강제동원 굴욕해법 강행규탄 4차 범국민대회 발언문",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=156303",
+          "publisher": "정의당",
+          "date": "2023-03-25"
+        },
+        {
+          "kind": "party",
+          "title": "[브리핑] 강제동원 배상금 공탁 중단해야. 정부가 또 하나의 가해자가 돼서는 안됩니다 [김희서 수석대변인]",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=158361",
+          "publisher": "정의당",
+          "date": "2023-07-04"
+        }
+      ],
+      "last_verified": "2026-08-10",
+      "verified": true
+    }
+  },
+  "D6": {
+    "dp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "이재명 \"외교 근간은 한미동맹\"…김문수 \"동맹 축으로 핵억제력 강화\"",
+          "url": "http://v.daum.net/v/20250527221153436",
+          "publisher": "연합뉴스",
+          "date": "2025-05-27"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "ppp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "中 갈라치기에 거리두기 전략, 고민 남긴 방중 외교",
+          "url": "http://v.daum.net/v/20260108153037926",
+          "publisher": "국제신문",
+          "date": "2026-01-08"
+        },
+        {
+          "kind": "press",
+          "title": "이재명 \"외교 근간은 한미동맹\"…김문수 \"동맹 축으로 핵억제력 강화\"",
+          "url": "http://v.daum.net/v/20250527221153436",
+          "publisher": "연합뉴스",
+          "date": "2025-05-27"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "rkp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[김준형 외교안보특별위원장] 윤석열 정부는 진정으로 한미일 3각 동맹으로 가기로 작정했나?",
+          "url": "https://rebuildingkoreaparty.kr/news/commentary-briefing/784",
+          "publisher": "조국혁신당",
+          "date": "2024-07-29"
+        },
+        {
+          "kind": "party",
+          "title": "[김준형 외교안보특별위원장] 미국의 전략적 유연성 압박, 단호히 거부한다!",
+          "url": "https://rebuildingkoreaparty.kr/news/commentary-briefing/4684",
+          "publisher": "조국혁신당",
+          "date": "2025-07-24"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "reform": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "이동훈 수석대변인｜강대국 '힘의 질서'의 귀환, 대한민국 외교는 더 단단해야 합니다",
+          "url": "https://reformparty.kr/news/briefing/1999-briefing-1330",
+          "publisher": "개혁신당",
+          "date": "2026-01-06"
+        },
+        {
+          "kind": "press",
+          "title": "이재명 \"외교 근간은 한미동맹\"…김문수 \"동맹 축으로 핵억제력 강화\"",
+          "url": "http://v.daum.net/v/20250527221153436",
+          "publisher": "연합뉴스",
+          "date": "2025-05-27"
+        },
+        {
+          "kind": "press",
+          "title": "개혁신당 \"李대통령, 지금이라도 입장 바꿔 나토 회의 참석하라\"",
+          "url": "http://v.daum.net/v/20250623110524368",
+          "publisher": "뉴시스",
+          "date": "2025-06-23"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "진보당 의원단, \"평화를 위해, 국회가 한미연합훈련 중단시키자\" 촉구",
+          "url": "https://jinboparty.com/pages/?p=286&b=B_1_111&m=read&bn=14875",
+          "publisher": "진보당",
+          "date": "2025-09-15"
+        },
+        {
+          "kind": "party",
+          "title": "이재명 대통령의 평화공존, 한미일 군사훈련과 양립할 수 없다",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=14963",
+          "publisher": "진보당",
+          "date": "2025-09-24"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "justice": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[브리핑] 한미일정상회담, 미국만을 위한 신냉전 퇴행외교를 우려합니다",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=159507",
+          "publisher": "정의당",
+          "date": "2023-08-18"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    }
+  },
+  "E1": {
+    "dp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "정부조직법 일부개정법률안(대안) 의안번호 2213247 — 2025-09-26 본회의 수정가결 (재석 180, 찬성 174 / 반대 1 / 기권 5)",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2N5I0A9B1L9R1Q7D4R2I5T8O7H1H3",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-09-26"
+        },
+        {
+          "kind": "assembly",
+          "title": "정부조직법 일부개정법률안(김병기의원 등 166인) 의안번호 2212965 — 대안반영폐기",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2T5T0N9N1K5I1B3O1K1K4M6T0X6G0",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-09-15"
+        },
+        {
+          "kind": "press",
+          "title": "정부조직법 본회의 통과…78년 만에 검찰청 폐지",
+          "url": "https://www.seoul.co.kr/news/politics/congress/2025/09/26/20250926500193",
+          "publisher": "서울신문",
+          "date": "2025-09-26"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "ppp": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "정부조직법 일부개정법률안(대안) 의안번호 2213247 — 2025-09-26 본회의 수정가결",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2N5I0A9B1L9R1Q7D4R2I5T8O7H1H3",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-09-26"
+        },
+        {
+          "kind": "press",
+          "title": "정부조직법 본회의 통과…78년 만에 검찰청 폐지",
+          "url": "https://www.seoul.co.kr/news/politics/congress/2025/09/26/20250926500193",
+          "publisher": "서울신문",
+          "date": "2025-09-26"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "rkp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "정부조직법 일부개정법률안(정춘생의원 등 11인) 의안번호 2212859 — 대안반영폐기",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2A5I0H9G0F8N1N7L0K9S5P9O3K3K2",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-09-10"
+        },
+        {
+          "kind": "assembly",
+          "title": "정부조직법 일부개정법률안(대안) 의안번호 2213247 — 2025-09-26 본회의 수정가결",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2N5I0A9B1L9R1Q7D4R2I5T8O7H1H3",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-09-26"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "reform": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "개혁신당 \"민주당, 국민에게서 검사 빼앗고 특검으로 수사권 독점\"",
+          "url": "https://www.mt.co.kr/politics/2026/08/06/2026080617123411198",
+          "publisher": "머니투데이",
+          "date": "2026-08-06"
+        },
+        {
+          "kind": "assembly",
+          "title": "정부조직법 일부개정법률안(대안) 의안번호 2213247 — 2025-09-26 본회의 수정가결",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2N5I0A9B1L9R1Q7D4R2I5T8O7H1H3",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-09-26"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "검사 직접수사권·보완수사권 폐지 형사소송법 개정안, 국회 본회의 통과",
+          "url": "https://www.hankookilbo.com/news/article/A2026073116320001361",
+          "publisher": "한국일보",
+          "date": "2026-07-31"
+        },
+        {
+          "kind": "press",
+          "title": "진보당 손솔, 검사 수사권 폐지·피해자 보호 강화 담은 형사소송법 개정안 발의",
+          "url": "https://www.vop.co.kr/A00001695903.html",
+          "publisher": "민중의소리",
+          "date": "2026-07-21"
+        }
+      ],
+      "last_verified": "2026-08-16",
+      "verified": true
+    },
+    "justice": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 검찰개혁에 대한 정의당의 입장 '보완수사권 반드시 필요하다'",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=165698",
+          "publisher": "정의당",
+          "date": "2025-09-30"
+        },
+        {
+          "kind": "party",
+          "title": "[보도자료] 검찰 권한만 줄이면 해결 아냐, 경찰·인사제도 개혁 병행해야",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=166009",
+          "publisher": "정의당",
+          "date": "2026-01-16"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    }
+  },
+  "E2": {
+    "dp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "민주, '정당한 영장 청구에 불체포특권 포기' 결의 채택(종합)",
+          "url": "http://v.daum.net/v/20230718150008916",
+          "publisher": "연합뉴스",
+          "date": "2023-07-18"
+        },
+        {
+          "kind": "press",
+          "title": "野 불체포특권 포기 결의?...'정당한 영장에만' 조건 달았다",
+          "url": "http://v.daum.net/v/20230718151645540",
+          "publisher": "조선일보",
+          "date": "2023-07-18"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "ppp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "이재명 \"사법 통제 강화\" vs 김문수 \"의원 불체포 특권 폐지\"",
+          "url": "http://v.daum.net/v/20250512183103293",
+          "publisher": "한국경제",
+          "date": "2025-05-12"
+        },
+        {
+          "kind": "press",
+          "title": "국힘·개혁신당 공약집 발간… 김문수 \"대통령 불소추특권 폐지\" 이준석 \"대선 결선투표제 도입\"",
+          "url": "http://v.daum.net/v/20250526215918717",
+          "publisher": "세계일보",
+          "date": "2025-05-26"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "rkp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "혁신당, 영장 청구된 권성동에 '불체포 특권 포기 약속 지켜라'",
+          "url": "http://v.daum.net/v/20250828192117649",
+          "publisher": "한겨레",
+          "date": "2025-08-28"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "reform": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "국힘·개혁신당 공약집 발간… 김문수 \"대통령 불소추특권 폐지\" 이준석 \"대선 결선투표제 도입\"",
+          "url": "http://v.daum.net/v/20250526215918717",
+          "publisher": "세계일보",
+          "date": "2025-05-26"
+        },
+        {
+          "kind": "party",
+          "title": "개혁신당 이준석 후보 국회 기자회견문",
+          "url": "https://reformparty.kr/news/press/406-press-436",
+          "publisher": "개혁신당",
+          "date": "2025-05-12"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[진보당 논평] 검찰의 이재명 대표 체포동의안을 반대한다!",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=8504",
+          "publisher": "진보당",
+          "date": "2023-02-13"
+        },
+        {
+          "kind": "party",
+          "title": "[손솔 수석대변인 서면브리핑] 강선우 체포동의안 가결",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=16383",
+          "publisher": "진보당",
+          "date": "2026-02-24"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[브리핑] 국회는 불체포특권 내려놓기에 확실히 동참해야 합니다",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=156200",
+          "publisher": "정의당",
+          "date": "2023-03-21"
+        },
+        {
+          "kind": "party",
+          "title": "[브리핑] '정당한 영장'일 경우 불체포특권 포기한다는 민주당, 정당할 땐 방탄하겠다는 반성 없는 반성문",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=158755",
+          "publisher": "정의당",
+          "date": "2023-07-18"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    }
+  },
+  "E3": {
+    "dp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "이재명 '4년 연임제' vs 김문수 '임기 단축·중임제'…개헌 공약 격돌",
+          "url": "http://v.daum.net/v/20250518134902969",
+          "publisher": "전자신문",
+          "date": "2025-05-18"
+        },
+        {
+          "kind": "press",
+          "title": "조국 '4년 중임제' 개헌 제안에 야권발 '개헌론' 시동",
+          "url": "http://v.daum.net/v/20240518073151634",
+          "publisher": "뉴스1",
+          "date": "2024-05-18"
+        },
+        {
+          "kind": "party",
+          "title": "제5차 진짜 대한민국 중앙선대위 총괄본부장단회의 모두발언",
+          "url": "https://theminjoo.kr/main/sub/news/view.php?brd=230&post=1211553&search=&sno=240",
+          "publisher": "더불어민주당",
+          "date": "2025-05-20"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "ppp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "이재명 '4년 연임제' vs 김문수 '임기 단축·중임제'…개헌 공약 격돌",
+          "url": "http://v.daum.net/v/20250518134902969",
+          "publisher": "전자신문",
+          "date": "2025-05-18"
+        },
+        {
+          "kind": "press",
+          "title": "국힘·개혁신당 공약집 발간… 김문수 \"대통령 불소추특권 폐지\" 이준석 \"대선 결선투표제 도입\"",
+          "url": "http://v.daum.net/v/20250526215918717",
+          "publisher": "세계일보",
+          "date": "2025-05-26"
+        },
+        {
+          "kind": "party",
+          "title": "김문수 후보의 개헌안, 청년들의 목소리 반영에 적극 지지합니다.",
+          "url": "https://www.peoplepowerparty.kr/news/comment_view_all/106915?gubun_list=all&page=147",
+          "publisher": "국민의힘",
+          "date": "2025-05-18"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "rkp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "조국혁신당 '대통령 4년 중임제 등 제7공화국 개헌'",
+          "url": "http://v.daum.net/v/20240517095549060",
+          "publisher": "뉴스1",
+          "date": "2024-05-17"
+        },
+        {
+          "kind": "press",
+          "title": "조국 '4년 중임제' 개헌 제안에 야권발 '개헌론' 시동",
+          "url": "http://v.daum.net/v/20240518073151634",
+          "publisher": "뉴스1",
+          "date": "2024-05-18"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "reform": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "국힘·개혁신당 공약집 발간… 김문수 \"대통령 불소추특권 폐지\" 이준석 \"대선 결선투표제 도입\"",
+          "url": "http://v.daum.net/v/20250526215918717",
+          "publisher": "세계일보",
+          "date": "2025-05-26"
+        },
+        {
+          "kind": "party",
+          "title": "이준석 23호 공약, “개혁신당 10대 헌법개정안”",
+          "url": "https://www.reformparty.kr/press/496?page=1",
+          "publisher": "개혁신당",
+          "date": "2025-05-23"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료]전종덕 의원, 대선과 원포인트 개헌 동시투표 제안",
+          "url": "https://jinboparty.com/pages/?p=286&b=B_1_111&m=read&bn=13274",
+          "publisher": "진보당",
+          "date": "2025-04-09"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "justice": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 권영국 후보 '개헌 공약' 발표",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=165237",
+          "publisher": "정의당",
+          "date": "2025-05-26"
+        },
+        {
+          "kind": "party",
+          "title": "[보도자료] 개헌 논의 제대로 하려면 '현직 대통령 연임' 가능성부터 닫아야 한다",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=166736",
+          "publisher": "정의당",
+          "date": "2026-07-28"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    }
+  },
+  "E4": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "정당법 일부개정법률안(김영배의원 등 34인)",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2T4C0U5D3M0I1K5A3B7V4I2I3P4P0",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-05-30"
+        },
+        {
+          "kind": "assembly",
+          "title": "정당법 일부개정법률안(임미애의원 등 15인)",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_F2E4M0L7K2K3J1Z3L1K8J3J6G5E6D9",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-07-25"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "ppp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "정당법 일부개정법률안(윤상현의원 등 11인)",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Y4E0H5G3F0N0M9L5S6R2P8P5N3M5",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-05-30"
+        },
+        {
+          "kind": "assembly",
+          "title": "정당법 일부개정법률안(고동진의원 등 10인)",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M4M0L8L2T0R1S3Q5R1P4Q0Y2W2X6",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-08-23"
+        },
+        {
+          "kind": "assembly",
+          "title": "정당법 일부개정법률안(조은희의원 등 10인)",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N2T5S0R3N1M4L1K3Q3P4P0X2U6T9C5",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-03-19"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "rkp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "조국혁신당, 지구당 부활에 반발…\"민주당은 멈추라\"",
+          "url": "https://v.daum.net/v/20250428095416044",
+          "publisher": "이데일리",
+          "date": "2025-04-28"
+        },
+        {
+          "kind": "press",
+          "title": "조국혁신당의 자강론…\"종부세 완화도 지구당 부활도 완강히 반대\" [이런정치]",
+          "url": "https://v.daum.net/v/20240604094803833",
+          "publisher": "헤럴드경제",
+          "date": "2024-06-04"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "reform": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "김성열 수석대변인｜11년만의 여야 간 훈풍이 절반의 성과로 끝나서는 안 됩니다｜2024년 9월 2일",
+          "url": "https://reformparty.kr/news/briefing/1217-briefing-550",
+          "publisher": "개혁신당",
+          "date": "2024-09-01"
+        },
+        {
+          "kind": "party",
+          "title": "허은아 당대표, 서울현충원 참배 백브리핑 주요 내용 | 2024년 6월 7일",
+          "url": "https://reformparty.kr/news/press/158-press-162",
+          "publisher": "개혁신당",
+          "date": "2024-06-07"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[손솔 수석대변인 서면브리핑] 국힘 핑계는 그만, 민주당은 19일 소위에서 '선거제 개혁 의지' 증명하라.",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=16537",
+          "publisher": "진보당",
+          "date": "2026-03-14"
+        },
+        {
+          "kind": "party",
+          "title": "[손솔 수석대변인 서면브리핑] 양당은 '지구당 부활'을 빌미로 한 소수 정당 말살 책동을 즉각 중단하라.",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=16835",
+          "publisher": "진보당",
+          "date": "2026-04-17"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "justice": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 지구당 부활 논의, 시대는 다양한 정치를 필요로 합니다",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=164084",
+          "publisher": "정의당",
+          "date": "2024-09-13"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    }
+  },
+  "E5": {
+    "dp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "민주, 현행 '준연동형 비례제' 유지…\"통합형 비례정당 추진\"",
+          "url": "https://www.newsis.com/view/?id=NISX20240205_0002616599",
+          "publisher": "뉴시스",
+          "date": "2024-02-05"
+        },
+        {
+          "kind": "press",
+          "title": "홍익표 \"12월 안으로 비례대표 선거방식 확정···병립형 회귀도 옵션\"",
+          "url": "https://m.khan.co.kr/politics/politics-general/article/202312111652001",
+          "publisher": "경향신문",
+          "date": "2023-12-11"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "ppp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "2월 13일 비상대책위원회의 주요내용",
+          "url": "https://www.peoplepowerparty.kr/news/comment_view/BBSDD0001/100254",
+          "publisher": "국민의힘",
+          "date": "2024-02-13"
+        },
+        {
+          "kind": "press",
+          "title": "국민의힘 \"이재명, 비례대표제 병립형 회귀 입장 정하라\"",
+          "url": "https://www.khan.co.kr/politics/politics-general/article/202401281108001",
+          "publisher": "경향신문",
+          "date": "2024-01-28"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "rkp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "진보 4당 \"선거제 개혁은 국민 명령\"…與 \"최선 다해 논의\"",
+          "url": "https://www.newsis.com/view/NISX20260225_0003525863",
+          "publisher": "뉴시스",
+          "date": "2026-02-25"
+        },
+        {
+          "kind": "press",
+          "title": "거대양당에 치이고, 지지율도 위태···혁신당, '정치개혁' 등 제3의 길 모색",
+          "url": "https://www.khan.co.kr/article/202406271712011",
+          "publisher": "경향신문",
+          "date": "2024-06-27"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "reform": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "주이삭 상근부대변인｜국민 눈치 보지 않는 거대 여야의 '나눠먹기 식' 선거구 획정안",
+          "url": "https://reformparty.kr/news/briefing/741-briefing-82",
+          "publisher": "개혁신당",
+          "date": "2024-02-29"
+        },
+        {
+          "kind": "press",
+          "title": "'준연동형 유지'로 한숨 돌린 제3지대...위성정당 움직임엔 경계심",
+          "url": "https://www.newspim.com/news/view/20240205001063",
+          "publisher": "뉴스핌",
+          "date": "2024-02-05"
+        }
+      ],
+      "last_verified": "2026-08-16",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[진보당 논평] 민주당의 '병립형 권역별 비례제'는 퇴행이자 꼼수",
+          "url": "https://jinboparty.com/pages/?p=15&b=b_1_2&m=read&bn=10048",
+          "publisher": "진보당",
+          "date": "2024-01-24"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "justice": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 김준우 상임대표·김찬휘 공동대표 외, 권역별 병립형 개악저지 녹색정의당 긴급농성 돌입 기자회견",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=162279",
+          "publisher": "정의당",
+          "date": "2024-02-03"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    }
+  },
+  "F1": {
+    "dp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "차별금지법안(손솔의원 등 10인) 의안번호 2215945 — 2026-01-09 제안, 법제사법위원회 계류",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2N5O1M1M1V9T1T1S0S9R5R9Z1A1Y3",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-01-09"
+        },
+        {
+          "kind": "assembly",
+          "title": "차별금지법안(정춘생의원 등 13인) 의안번호 2216610 — 2026-02-05 제안, 법제사법위원회 계류",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2G5G1O1O1N7L1M0K1L2S4T7S0S0Q9",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-02-05"
+        },
+        {
+          "kind": "press",
+          "title": "정부 '차별 방지' 법제화 시동…野 \"가족 제도 흔들 것\"",
+          "url": "https://www.hankyung.com/article/2026060235517",
+          "publisher": "한국경제",
+          "date": "2026-06-02"
+        },
+        {
+          "kind": "press",
+          "title": "대통령 임기 내 차별금지법? 이재명 \"사회적 합의 필요\"",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003123057",
+          "publisher": "오마이뉴스",
+          "date": "2025-04-26"
+        },
+        {
+          "kind": "press",
+          "title": "이재명 민주당 대통령 후보, 포괄적 차별금지법 관련 입장은",
+          "url": "https://www.christiantoday.co.kr/news/368235",
+          "publisher": "크리스천투데이",
+          "date": "2025-05-12"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "ppp": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "정부 '차별 방지' 법제화 시동…野 \"가족 제도 흔들 것\"",
+          "url": "https://www.hankyung.com/article/2026060235517",
+          "publisher": "한국경제",
+          "date": "2026-06-02"
+        },
+        {
+          "kind": "assembly",
+          "title": "차별금지법안(정춘생의원 등 13인) 의안번호 2216610",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2G5G1O1O1N7L1M0K1L2S4T7S0S0Q9",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-02-05"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "rkp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "차별금지법안(정춘생의원 등 13인) 의안번호 2216610",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2G5G1O1O1N7L1M0K1L2S4T7S0S0Q9",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-02-05"
+        },
+        {
+          "kind": "press",
+          "title": "조국혁신당 정춘생, 차별금지법 발의…\"광장이 만든 정부서 제정해야\"",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=332139",
+          "publisher": "미디어오늘",
+          "date": "2026-02-05"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "reform": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "이준석 \"차별금지법 제정 주장은 입법만능주의…도입에 부정적\"",
+          "url": "https://www.newsnjoy.or.kr/news/articleView.html?idxno=307413",
+          "publisher": "뉴스앤조이",
+          "date": "2025-05-24"
+        },
+        {
+          "kind": "assembly",
+          "title": "차별금지법안(정춘생의원 등 13인) 의안번호 2216610",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2G5G1O1O1N7L1M0K1L2S4T7S0S0Q9",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-02-05"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "차별금지법안(손솔의원 등 10인) 의안번호 2215945",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2N5O1M1M1V9T1T1S0S9R5R9Z1A1Y3",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-01-09"
+        },
+        {
+          "kind": "press",
+          "title": "진보당 손솔 의원, 제22대 국회 최초 포괄적 차별금지법안 대표발의",
+          "url": "https://www.minplusnews.com/news/articleView.html?idxno=17288",
+          "publisher": "민플러스",
+          "date": "2026-01-09"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 정부는 포괄적 차별금지법 제정 의지를 분명히 밝혀라",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=166635",
+          "publisher": "정의당",
+          "date": "2026-06-02"
+        },
+        {
+          "kind": "party",
+          "title": "[보도자료] 권영국 후보 10대 공약 발표 (포괄적 차별금지법 제정 포함)",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=165060",
+          "publisher": "정의당",
+          "date": "2025-05-12"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    }
+  },
+  "F2": {
+    "dp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "'이젠 오류 아닙니다' 동성 배우자 인정, 왜 국회만 못 하고 있을까",
+          "url": "https://www.khan.co.kr/article/202511020900041",
+          "publisher": "경향신문",
+          "date": "2025-11-02"
+        },
+        {
+          "kind": "press",
+          "title": "이재명 민주당 대통령 후보, 포괄적 차별금지법 관련 입장은",
+          "url": "https://www.christiantoday.co.kr/news/368235",
+          "publisher": "크리스천투데이",
+          "date": "2025-05-12"
+        },
+        {
+          "kind": "press",
+          "title": "대통령 임기 내 차별금지법? 이재명 \"사회적 합의 필요\"",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003123057",
+          "publisher": "오마이뉴스",
+          "date": "2025-04-26"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "ppp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "국감서 또 '동성 커플 통계 진입' 문제 삼은 국힘… 데이터처장 답변은?",
+          "url": "https://www.hankookilbo.com/News/Read/A2025102916360003018",
+          "publisher": "한국일보",
+          "date": "2025-10-29"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "rkp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "'이젠 오류 아닙니다' 동성 배우자 인정, 왜 국회만 못 하고 있을까",
+          "url": "https://www.khan.co.kr/article/202511020900041",
+          "publisher": "경향신문",
+          "date": "2025-11-02"
+        },
+        {
+          "kind": "assembly",
+          "title": "차별금지법안(정춘생의원 등 13인) 의안번호 2216610",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2G5G1O1O1N7L1M0K1L2S4T7S0S0Q9",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-02-05"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "reform": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "이준석 \"차별금지법 제정 주장은 입법만능주의…도입에 부정적\"",
+          "url": "https://www.newsnjoy.or.kr/news/articleView.html?idxno=307413",
+          "publisher": "뉴스앤조이",
+          "date": "2025-05-24"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[진보당 논평] 그리스에서도 동성결혼 허용, 동성결혼 합법화는 거스를 수 없는 흐름이다!",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=10159",
+          "publisher": "진보당 인권위원회",
+          "date": "2024-02-16"
+        },
+        {
+          "kind": "party",
+          "title": "[보도자료] 진보당 김재연, 무지개행동 정책협약 \"차별금지법 제정\"",
+          "url": "https://jinboparty.com/pages/?p=286&b=B_1_111&m=read&bn=13520",
+          "publisher": "진보당",
+          "date": "2025-05-02"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 권영국 후보 '두 번째 혼인평등소송, 동성혼 법제화로 다양한 가족의 권리 보장해야'",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=165000",
+          "publisher": "정의당",
+          "date": "2025-05-05"
+        },
+        {
+          "kind": "party",
+          "title": "[보도자료] 대구·부산·울산 동성부부들의 혼인평등소송을 온 마음으로 지지합니다",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=166272",
+          "publisher": "정의당",
+          "date": "2026-04-07"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    }
+  },
+  "F3": {
+    "dp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "제3지대가 쏘아 올린 '여성 징병제' 이슈…\"병력 부족 해결\" vs \"남녀 갈라치기\"",
+          "url": "http://v.daum.net/v/20240130162407182",
+          "publisher": "파이낸셜뉴스",
+          "date": "2024-01-30"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "ppp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "제3지대가 쏘아 올린 '여성 징병제' 이슈…\"병력 부족 해결\" vs \"남녀 갈라치기\"",
+          "url": "http://v.daum.net/v/20240130162407182",
+          "publisher": "파이낸셜뉴스",
+          "date": "2024-01-30"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "rkp": {
+      "score": 3,
+      "sources": [],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "reform": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "이준석 개혁신당, '女 신규 공무원 병역 의무화' 제안…\"병역제도 개혁 필요\"",
+          "url": "https://www.newspim.com/news/view/20240129000132",
+          "publisher": "뉴스핌",
+          "date": "2024-01-29"
+        },
+        {
+          "kind": "party",
+          "title": "[신하섭 부대변인 브리핑] 이준석 대표의 철지난 '군대 다녀와야 사람 된다'",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=10072",
+          "publisher": "진보당",
+          "date": "2024-01-29"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 청년진보당, '지금 필요한 건 여성징병이 아니라 성평등모병제'",
+          "url": "https://jinboparty.com/pages/?p=286&b=B_1_111&m=read&bn=9868",
+          "publisher": "진보당",
+          "date": "2023-12-14"
+        },
+        {
+          "kind": "party",
+          "title": "[신하섭 부대변인 브리핑] 이준석 대표의 철지난 '군대 다녀와야 사람 된다'",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=10072",
+          "publisher": "진보당",
+          "date": "2024-01-29"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "justice": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 정의당(민주노동당) 10대 정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY8",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-30"
+        },
+        {
+          "kind": "party",
+          "title": "권영국 후보 '국방 공약' 발표 \"우리 군을 신뢰와 책임의 이름으로 대전환하겠습니다\"",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=165246",
+          "publisher": "정의당",
+          "date": "2025-05-26"
+        },
+        {
+          "kind": "party",
+          "title": "[브리핑] 김창인 선대위 대변인, 심상정 대통령 후보 11월 15일 일정, '한국형 모병제' 공약 발표",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=145678",
+          "publisher": "정의당",
+          "date": "2021-11-15"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    }
+  },
+  "F4": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "의료업계 벌집 쑤셔놓은 李대통령…낙태약 처방 검토 지시에 논쟁 격화",
+          "url": "https://www.munhwa.com/article/11603063",
+          "publisher": "문화일보",
+          "date": "2026-07-16"
+        },
+        {
+          "kind": "press",
+          "title": "(낙태죄 폐지 그리고 7년)③(단독)임신중지권, 정부 국정과제에도…민주당은 '눈치'만",
+          "url": "https://www.newstomato.com/ReadNews.aspx?no=1292275",
+          "publisher": "뉴스토마토",
+          "date": "2026-02-25"
+        },
+        {
+          "kind": "party",
+          "title": "[보도자료] 이재명 정부 '낙태죄 대체입법' 추진 적극 환영한다 [권영국 대표]",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=165544",
+          "publisher": "정의당",
+          "date": "2025-08-12"
+        },
+        {
+          "kind": "assembly",
+          "title": "모자보건법 일부개정법률안(남인순의원 등 11인), 의안번호 2211448",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_B2C5Y0Y7W0V3W0U9U5C4D3B4C5A9A6",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-07-11"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "ppp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "\"약물 낙태는 위험천만한 도박\"… 국힘 윤용근, 李대통령 '미프진 허용' 지시 규탄",
+          "url": "https://www.dt.co.kr/article/12073191",
+          "publisher": "디지털타임스",
+          "date": "2026-07-16"
+        },
+        {
+          "kind": "press",
+          "title": "의료업계 벌집 쑤셔놓은 李대통령…낙태약 처방 검토 지시에 논쟁 격화",
+          "url": "https://www.munhwa.com/article/11603063",
+          "publisher": "문화일보",
+          "date": "2026-07-16"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "rkp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "임신 중단 법제화·비동의 강간죄 신설... '성평등 비전' 낸 혁신당",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003182546",
+          "publisher": "오마이뉴스",
+          "date": "2025-11-13"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "reform": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "이준석 \"개혁신당, 낙태·존엄사 등 진짜 논쟁 다룰 것\"",
+          "url": "https://www.asiae.co.kr/article/2024030610532857234",
+          "publisher": "아시아경제",
+          "date": "2024-03-06"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[이미선 대변인 브리핑] 대통령의 '미프진' 도입 지시 환영…여성의 재생산권 온전히 보장해야!",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=17462",
+          "publisher": "진보당",
+          "date": "2026-07-15"
+        },
+        {
+          "kind": "party",
+          "title": "[여성-엄마당 논평] 낙태죄 헌법불합치 판결 이후 6년, 지금 당장 임신중지약을 도입해야 합니다.",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=14701",
+          "publisher": "진보당",
+          "date": "2025-08-28"
+        },
+        {
+          "kind": "assembly",
+          "title": "모자보건법 일부개정법률안(손솔의원 등 10인), 의안번호 2217327",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2E6E0C1D2C1C1A6W1X8V2W1U2V5T9",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-03-09"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 정의당(민주노동당) 10대 정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY8",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-30"
+        },
+        {
+          "kind": "party",
+          "title": "[보도자료] 낙태죄 헌법불합치 7년, 입법자들은 도대체 뭘 하고 있는가? [권영국 대표]",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=166296",
+          "publisher": "정의당",
+          "date": "2026-04-11"
+        },
+        {
+          "kind": "party",
+          "title": "[보도자료] 낙태죄 대체법안 발의 환영한다 [권영국 대표]",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=165474",
+          "publisher": "정의당",
+          "date": "2025-07-16"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    }
+  },
+  "F6": {
+    "dp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "이수진 의원, '성평등 임금공시제 5법' 대표발의",
+          "url": "https://v.daum.net/v/20250711172333571",
+          "publisher": "다음뉴스",
+          "date": "2025-07-11"
+        },
+        {
+          "kind": "press",
+          "title": "與이수진, 성별 고용·임금 격차 공개 추진…'양성평등기본법' 발의",
+          "url": "https://news.nate.com/view/20260810n12261",
+          "publisher": "네이트뉴스",
+          "date": "2026-08-10"
+        },
+        {
+          "kind": "press",
+          "title": "'고용평등임금공시제' 법제화 시동…내년 3월 시행 목표",
+          "url": "https://www.newsis.com/view/NISX20260402_0003576070",
+          "publisher": "뉴시스",
+          "date": "2026-04-02"
+        },
+        {
+          "kind": "party",
+          "title": "제2차 중앙선거대책위원회 회의 모두발언",
+          "url": "https://www.theminjoo.kr/main/sub/news/view.php?brd=230&post=448752&search=&sno=2300",
+          "publisher": "더불어민주당",
+          "date": "2021-03-12"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "ppp": {
+      "score": 3,
+      "sources": [],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "rkp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "\"여자라서 월급을 덜 받는 건 아닐까?\" 신장식 의원, '성평등임금공시제' 발의",
+          "url": "https://www.womennews.co.kr/news/articleView.html?idxno=274573",
+          "publisher": "여성신문",
+          "date": "2026-03-07"
+        },
+        {
+          "kind": "press",
+          "title": "신장식 의원 \"성평등임금공시제는 자본시장 공정성 높이는 합리적 의무\"",
+          "url": "https://www.womennews.co.kr/news/articleView.html?idxno=261706",
+          "publisher": "여성신문",
+          "date": "2025-05-07"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "reform": {
+      "score": 3,
+      "sources": [],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "\"여자라서 월급을 덜 받는 건 아닐까?\" 손솔 의원, 성평등임금공시제 법안 발의",
+          "url": "https://www.womennews.co.kr/news/articleView.html?idxno=274484",
+          "publisher": "여성신문",
+          "date": "2026-03-05"
+        },
+        {
+          "kind": "party",
+          "title": "[이미선 부대변인 브리핑] 성별 임금격차 해소를 위한 사회대개혁이 필요합니다!",
+          "url": "https://jinboparty.com/pages/?p=15&b=b_1_2&m=read&bn=12435",
+          "publisher": "진보당",
+          "date": "2025-01-17"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "심상정 1호 공약 \"주4일 근무제·성평등 임금 공시제\"",
+          "url": "https://www.womennews.co.kr/news/articleView.html?idxno=215544",
+          "publisher": "여성신문",
+          "date": "2021-09-06"
+        },
+        {
+          "kind": "press",
+          "title": "심상정, 대선 1호 공약 발표…주4일 근무제·성평등 임금 공시제",
+          "url": "http://news.imaeil.com/page/view/2021090615220065320",
+          "publisher": "매일신문",
+          "date": "2021-09-06"
+        },
+        {
+          "kind": "party",
+          "title": "[보도자료] 신호등연대 10대 공통공약 발표 기자회견 “공공성 높이고 생활비 낮추고!”",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=166505&page=1",
+          "publisher": "정의당",
+          "date": "2026-05-18"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    }
+  },
+  "G1": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[김주영 국회의원 보도자료] 尹정부, 23년 고용허가제'지역 이동 제한'하자 이주노동자 사업장 변경 애로 민원 급증 지난해 12만 2670건 역대 최대…올해만 벌써 7.3만 건",
+          "url": "https://theminjoo.kr/main/sub/news/view.php?brd=17&post=1214332&search=&sno=660",
+          "publisher": "더불어민주당",
+          "date": "2025-10-15"
+        }
+      ],
+      "last_verified": "2026-08-16",
+      "verified": true
+    },
+    "ppp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "외국인근로자 사업장 변경, 일정 권역·업종 내에서만 허용",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148917291",
+          "publisher": "대한민국 정책브리핑(고용노동부)",
+          "date": "2023-07-05"
+        }
+      ],
+      "last_verified": "2026-08-16",
+      "verified": true
+    },
+    "rkp": {
+      "score": 3,
+      "sources": [],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "reform": {
+      "score": 3,
+      "sources": [],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[진보당 논평] 이주노동자는 ‘노예’가 아니다. 지역 이동 제한 즉각 철회하라!",
+          "url": "https://jinboparty.com/pages/?p=15&b=b_1_2&m=read&bn=9096",
+          "publisher": "진보당",
+          "date": "2023-07-06"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] \"이주노동자도 사람이다, 모든 이주노동자 사업장 변경 자유 보장하라\"",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=166394",
+          "publisher": "정의당",
+          "date": "2026-04-28"
+        }
+      ],
+      "last_verified": "2026-08-16",
+      "verified": true
+    }
+  },
+  "G2": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "정부조직법 일부개정법률안(이강일의원 등 11인)",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Z5X0Y4G1H0F1F3E3C0D4S7S3R2R6",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-04-15"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "ppp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "정부조직법 일부개정법률안(조정훈의원 등 10인)",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2M5N1I2J0H1H1G8E4F9N3N9L6M9L1",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-12-10"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "rkp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "\"이민정책 총괄 전담기구 신설 필요\"…국회 토론회서 한목소리",
+          "url": "http://v.daum.net/v/20250313110406580",
+          "publisher": "연합뉴스",
+          "date": "2025-03-13"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "reform": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "\"이민청이 인구문제의 해법\"…총선 여야 후보 앞다퉈 유치 공약",
+          "url": "http://v.daum.net/v/20240322113935095",
+          "publisher": "연합뉴스",
+          "date": "2024-03-22"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[손솔 수석대변인 브리핑] 국회의원 정원 축소가 아니라 제대로 일 할 고민부터 하라! / 법무부는 계절이주노동자 구제 대책에 즉각 나서라!",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=10008",
+          "publisher": "진보당",
+          "date": "2024-01-16"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 민주노동당 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY8",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-30"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    }
+  },
+  "G3": {
+    "dp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "'중국인 투표권 제한' 논란…\"상호주의\" \"외국인 혐오\"",
+          "url": "http://v.daum.net/v/20230622195754690",
+          "publisher": "연합뉴스TV",
+          "date": "2023-06-22"
+        },
+        {
+          "kind": "press",
+          "title": "한동훈, 재한중국인 겨냥 \"투표권 상호주의 적용…민주당은 반대\"(종합)",
+          "url": "http://v.daum.net/v/20240324153258156",
+          "publisher": "연합뉴스",
+          "date": "2024-03-24"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "ppp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "공직선거법 일부개정법률안(권성동의원 등 15인), 의안번호 2204951",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_D2E4M0K7L1J0K1J6E2F6D2E7C0D2B4",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-10-28"
+        },
+        {
+          "kind": "assembly",
+          "title": "공직선거법 일부개정법률안(김기현의원 등 13인), 의안번호 2203709",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2A4I0I9H0I3G1G7F2B2B1Z3A8Y0Z9",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-09-05"
+        },
+        {
+          "kind": "assembly",
+          "title": "공직선거법 일부개정법률안(김미애의원 등 29인), 의안번호 2209542",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2A5Z0A3H3I1G1H2F0G1E0A5B8Z2Z3",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-04-02"
+        },
+        {
+          "kind": "assembly",
+          "title": "공직선거법 일부개정법률안(김은혜의원 등 18인), 의안번호 2216512",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2P6W0X1W3W0U1V6T1P9Q4O7P7N7O9",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-02-03"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    },
+    "rkp": {
+      "score": 3,
+      "sources": [],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "reform": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "이준석 당대표, '외국인 여론 왜곡 방지법' 발의",
+          "url": "https://reformparty.kr/news/press/624-press-719",
+          "publisher": "개혁신당",
+          "date": "2026-02-06"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 3,
+      "sources": [],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "justice": {
+      "score": 3,
+      "sources": [],
+      "last_verified": "2026-08-14",
+      "verified": true
+    }
+  },
+  "G4": {
+    "dp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "난민법 일부개정법률안(김기표의원 등 12인), 의안번호 2217617",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_A2Z6Y0H3D1C8N1M4L0K6S1P7O9W2W8",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-03-19"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "ppp": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "난민법 일부개정법률안(유상범의원 등 10인), 의안번호 2212166",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2M5K0G8F0O8N1K0S5R4Q4O7V3U4T4",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-08-13"
+        },
+        {
+          "kind": "assembly",
+          "title": "난민법 일부개정법률안(정부), 의안번호 2204195",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=ARC_X2N4I0T9C2Y3Z1Y7B3D6W3Q8R0K6V5",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-09-23"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    },
+    "rkp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "'공항 난민 수하물 접근 불가'에… 인권위, \"피해 회복됐다\"며 진정 기각",
+          "url": "http://v.daum.net/v/20260612145747232",
+          "publisher": "오마이뉴스",
+          "date": "2026-06-12"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "reform": {
+      "score": 3,
+      "sources": [],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 진보당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A7%84%EB%B3%B4%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_5010_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "justice": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 정의당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A0%95%EC%9D%98%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_730_20260511_2.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        },
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 민주노동당 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY8",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-30"
+        }
+      ],
+      "last_verified": "2026-08-11",
+      "verified": true
+    }
+  },
+  "H1": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "기후부 \"신규 원전 2기 그대로 추진\"…12차 전기본 추진 방향 발표",
+          "url": "https://www.khan.co.kr/article/202601261656001",
+          "publisher": "경향신문",
+          "date": "2026-01-26"
+        },
+        {
+          "kind": "press",
+          "title": "'3대 메가프로젝트'에 12차 전기본 다시 짠다…추가 원전 가능성도",
+          "url": "https://www.hankyung.com/article/202607131289i",
+          "publisher": "한국경제",
+          "date": "2026-07-13"
+        },
+        {
+          "kind": "press",
+          "title": "원전 vs 재생에너지…여야 에너지 공약 '극과 극' [창간기획]",
+          "url": "https://www.ekn.kr/web/view.php?key=20260522024045974",
+          "publisher": "에너지경제신문",
+          "date": "2026-05-24"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "ppp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "원전 vs 재생에너지…여야 에너지 공약 '극과 극' [창간기획]",
+          "url": "https://www.ekn.kr/web/view.php?key=20260522024045974",
+          "publisher": "에너지경제신문",
+          "date": "2026-05-24"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "rkp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "조국 '李정부 기후정책 실종, 원전 패러다임 부활'…또 쓴소리",
+          "url": "https://www.news1.kr/politics/assembly/6258080",
+          "publisher": "뉴스1",
+          "date": "2026-08-13"
+        },
+        {
+          "kind": "press",
+          "title": "조국 '원전 부활, 김성환 분발해야…이럴바엔 환경부로 돌아가라'",
+          "url": "https://www.mt.co.kr/politics/2026/08/13/2026081309192857988",
+          "publisher": "머니투데이",
+          "date": "2026-08-13"
+        }
+      ],
+      "last_verified": "2026-08-16",
+      "verified": true
+    },
+    "reform": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "이준석 \"신규 원전 건설 환영…민주당 탈원전 기조 스스로 인정한 셈\"",
+          "url": "https://www.etoday.co.kr/news/view/2549366",
+          "publisher": "이투데이",
+          "date": "2026-01-26"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[홍성규 대변인 브리핑] '포용적 지속성장'과 '원전'은 함께 갈 수 없어! '신규 원전 군불때기' 즉각 중단해야!",
+          "url": "https://jinboparty.com/pages/?p=15&b=B_1_2&m=read&bn=17348",
+          "publisher": "진보당",
+          "date": "2026-07-06"
+        },
+        {
+          "kind": "party",
+          "title": "[보도자료] 과장된 'AI발 전력 부족 프레임'은 원전 건설의 이유가 될 수 없습니다",
+          "url": "https://jinboparty.com/pages/?p=286&b=B_1_111&m=read&bn=16168",
+          "publisher": "진보당",
+          "date": "2026-01-26"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "justice": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] '부실 여론조사, 졸속 강행' 이재명 대통령은 신규 원전 추진 즉각 백지화하고, 김성환 기후부 장관 해임하라",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=166037",
+          "publisher": "정의당",
+          "date": "2026-01-27"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    }
+  },
+  "H2": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 더불어민주당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EB%8D%94%EB%B6%88%EC%96%B4%EB%AF%BC%EC%A3%BC%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_100_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-09",
+      "verified": true
+    },
+    "ppp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법 일부개정법률안(김소희의원 등 20인), 의안번호 2218250",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2I6Q0R4P1N0O1M4N3J7J4H8G8H2F7",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-04-10"
+        },
+        {
+          "kind": "assembly",
+          "title": "기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법 일부개정법률안(이종배의원 등 12인), 의안번호 2218465",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2N6L0M4U2U0S1T5S4S7Q5R1Z5Z3Y1",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-04-21"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "rkp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법 일부개정법률안(서왕진의원 등 12인), 의안번호 2211488",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2Q5O0P7N1O5M0N9V4V0T0S6T4R6R9",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-07-15"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "reform": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 개혁신당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EA%B0%9C%ED%98%81%EC%8B%A0%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_5070_20260508_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-09",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 진보당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A7%84%EB%B3%B4%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_5010_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-09",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 민주노동당 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY8",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-30"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    }
+  },
+  "H3": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "환경영향평가법 일부개정법률안(윤준병의원 등 11인), 의안번호 2220093",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_L2K6I0I7H0H7P1O1O1H5I0H9H7F4G9",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-07-22"
+        },
+        {
+          "kind": "assembly",
+          "title": "환경영향평가법 일부개정법률안(이용우의원 등 10인), 의안번호 2214562",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2W5S1S1Q2R5P1Q0O4W7X0V5W4U0V8",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-11-26"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "ppp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "환경영향평가법 일부개정법률안(정희용의원 등 12인), 의안번호 2210809",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2D5Y0Z6X1Y1W1X1V2D4E0C7C3B5B7",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-06-13"
+        },
+        {
+          "kind": "assembly",
+          "title": "환경영향평가법 일부개정법률안(이만희의원 등 10인), 의안번호 2210418",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2I5G0F5F0D7E1M8N3L2L1J1I2J9E4",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-05-08"
+        },
+        {
+          "kind": "assembly",
+          "title": "산지관리법 일부개정법률안(정희용의원 등 14인), 의안번호 2209919",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2V5W0U4U1T7P1P1O0O7M3N1M0T7U1",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-04-17"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "rkp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "환경영향평가법 일부개정법률안(서왕진의원 등 15인), 의안번호 2210517",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_T2R5S0Q5R1Y2X0Y9W4X2V1W1D1C3C2",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-05-14"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "reform": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[260810 개혁신당 대변인 논평] 헬기 타고 부지 낙점하겠다는 대통령, 법적 절차 무력화 선언입니다.",
+          "url": "https://reformparty.kr/news/briefing/204626-%ed%97%ac%ea%b8%b0-%ed%83%80%ea%b3%a0-%eb%b6%80%ec%a7%80-%eb%82%99%ec%a0%90%ed%95%98%ea%b2%a0%eb%8b%a4%eb%8a%94-%eb%8c%80%ed%86%b5%eb%a0%b9-%eb%b2%95%ec%a0%81-%ec%a0%88%ec%b0%a8-%eb%ac%b4%eb%a0%a5%ed%99%94-%ec%84%a0%ec%96%b8%ec%9e%85%eb%8b%88%eb%8b%a4%ea%b3%a0%ea%b8%88%eb%9e%80-%eb%8c%80%eb%b3%80%ec%9d%b8",
+          "publisher": "개혁신당",
+          "date": "2026-08-10"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "환경영향평가법 일부개정법률안(정혜경의원 등 11인), 의안번호 2214282",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2X5W0V9U0H8H1F7O0N6M0L2T2S9R3",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-11-14"
+        },
+        {
+          "kind": "assembly",
+          "title": "환경영향평가법 일부개정법률안(정혜경의원 등 12인), 의안번호 2211110",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2C5D0C4A2A1I1J7H2I5G1F3F2N5N6",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-06-27"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 민주노동당 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY8",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-30"
+        },
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 정의당 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY5",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    }
+  },
+  "H4": {
+    "dp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 더불어민주당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EB%8D%94%EB%B6%88%EC%96%B4%EB%AF%BC%EC%A3%BC%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_100_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "ppp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "송언석 \"정작 피해계층 외면된 추경…오진 추경 바로잡겠다\"",
+          "url": "https://www.etnews.com/20260403000062",
+          "publisher": "전자신문",
+          "date": "2026-04-03"
+        },
+        {
+          "kind": "press",
+          "title": "추경 뇌관 된 태양광…野, 120억 전액 삭감 요구",
+          "url": "https://www.m-joongang.com/news/articleView.html?idxno=402334",
+          "publisher": "월간중앙",
+          "date": "2026-04-07"
+        },
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 국민의힘 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EA%B5%AD%EB%AF%BC%EC%9D%98%ED%9E%98_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_200_20260511_2.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-16",
+      "verified": true
+    },
+    "rkp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "신에너지 및 재생에너지 개발·이용·보급 촉진법 일부개정법률안(서왕진의원 등 12인), 의안번호 2217671",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2C6D0B3B1Z6Y1Z7G3H8F2G3E9F0D0",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-03-20"
+        },
+        {
+          "kind": "assembly",
+          "title": "신에너지 및 재생에너지 개발·이용·보급 촉진법 일부개정법률안(서왕진의원 등 10인), 의안번호 2215590",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Z5I1G2G2F2G1E5E3M7L2L9J9K9J8",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-12-24"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "reform": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 개혁신당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EA%B0%9C%ED%98%81%EC%8B%A0%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_5070_20260508_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 진보당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A7%84%EB%B3%B4%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_5010_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 정의당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A0%95%EC%9D%98%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_730_20260511_2.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    }
+  },
+  "I1": {
+    "dp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "행정규제기본법 일부개정법률안(대안)(정무위원장), 의안번호 2218518",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2J6P0F4L0Z2B0M7M3H3Q1P4Y9S4Y2",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-04-22"
+        },
+        {
+          "kind": "assembly",
+          "title": "행정규제기본법 일부개정법률안(강준현의원 등 13인), 의안번호 2211944",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_O2N5U0T7A3Z1Y1F0Z1G9F1M8L7I7E3",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-08-01"
+        },
+        {
+          "kind": "assembly",
+          "title": "행정규제기본법 일부개정법률안(유동수의원 등 11인), 의안번호 2217694",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2S6Q0R2P1P0Y1Y0W2X3V2W1U3C3D5",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-03-23"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "ppp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 국민의힘 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EA%B5%AD%EB%AF%BC%EC%9D%98%ED%9E%98_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_200_20260511_2.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "rkp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[김선민 정책위의장] 주 52시간제는 흥정의 대상이 아닙니다 — 메가특구 '화이트칼라 이그젬션' 주장에 부쳐",
+          "url": "https://rebuildingkoreaparty.kr/news/commentary-briefing/8244",
+          "publisher": "조국혁신당",
+          "date": "2026-08-07"
+        },
+        {
+          "kind": "press",
+          "title": "\"문재인 정부 최저임금 인상은 정신분열증\" 인사 발탁 논란",
+          "url": "http://v.daum.net/v/20260303192924124",
+          "publisher": "매일노동뉴스",
+          "date": "2026-03-03"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "reform": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "집값은 역대 최고로 뛰는데, 정부는 또 '토론', 규제 결론을 위한 무한반복 말잔치ㅣ고금란 대변인",
+          "url": "https://reformparty.kr/news/briefing/203975",
+          "publisher": "개혁신당",
+          "date": "2026-07-27"
+        },
+        {
+          "kind": "party",
+          "title": "이재명 대통령의 ‘어쩌라고’ 기자회견, “어쩌자고 대통령이 됐습니까?”ㅣ이동훈 수석대변인",
+          "url": "https://reformparty.kr/news/briefing/2024-briefing-1355",
+          "publisher": "개혁신당",
+          "date": "2026-01-21"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 진보당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A7%84%EB%B3%B4%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_5010_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "justice": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 정의당 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY5",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        },
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 민주노동당 정당정책",
+          "url": "https://policy.nec.go.kr/plc/policy/initUPAPolicy.do?menuId=PARTY8",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-30"
+        }
+      ],
+      "last_verified": "2026-08-13",
+      "verified": true
+    }
+  },
+  "I2": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 더불어민주당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EB%8D%94%EB%B6%88%EC%96%B4%EB%AF%BC%EC%A3%BC%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_100_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-09",
+      "verified": true
+    },
+    "ppp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 국민의힘 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EA%B5%AD%EB%AF%BC%EC%9D%98%ED%9E%98_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_200_20260511_2.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-09",
+      "verified": true
+    },
+    "rkp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 조국혁신당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A1%B0%EA%B5%AD%ED%98%81%EC%8B%A0%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_5077_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-09",
+      "verified": true
+    },
+    "reform": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 개혁신당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EA%B0%9C%ED%98%81%EC%8B%A0%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_5070_20260508_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-09",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 진보당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A7%84%EB%B3%B4%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_5010_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-09",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 정의당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A0%95%EC%9D%98%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_730_20260511_2.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-09",
+      "verified": true
+    }
+  },
+  "I3": {
+    "dp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "상법 일부개정법률안(대안) 의안번호 2211251 — 2025-07-03 본회의 원안가결 (재석 272, 찬성 218 / 반대 29 / 기권 25)",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2M5I0P7H0Z2V1Q8N3K0C1E0U1L4S6",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-07-03"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "ppp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "상법 일부개정법률안(대안) 의안번호 2211251 — 2025-07-03 본회의 원안가결 (찬성 218 / 반대 29 / 기권 25)",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2M5I0P7H0Z2V1Q8N3K0C1E0U1L4S6",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-07-03"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "rkp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "상법 일부개정법률안(대안) 의안번호 2211251 — 2025-07-03 본회의 원안가결 (찬성 218 / 반대 29 / 기권 25)",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2M5I0P7H0Z2V1Q8N3K0C1E0U1L4S6",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-07-03"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "reform": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "상법 일부개정법률안(대안) 의안번호 2211251 — 2025-07-03 본회의 원안가결 (찬성 218 / 반대 29 / 기권 25)",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2M5I0P7H0Z2V1Q8N3K0C1E0U1L4S6",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-07-03"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "상법 일부개정법률안(대안) 의안번호 2211251 — 2025-07-03 본회의 원안가결 (찬성 218 / 반대 29 / 기권 25)",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P2M5I0P7H0Z2V1Q8N3K0C1E0U1L4S6",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-07-03"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "[보도자료] 상법 개정안에 노동자·협력업체 등 이해관계자 권리도 담겨야",
+          "url": "https://www.justice21.org/newhome/board/board_view.html?num=165438",
+          "publisher": "정의당",
+          "date": "2025-07-02"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    }
+  },
+  "I4": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "청년고용촉진 특별법 일부개정법률안(윤준병의원 등 11인), 의안번호 2218683",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E2F6N0N4L1K6L1J8J4F9G0E1E1D9B4",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-04-29"
+        },
+        {
+          "kind": "assembly",
+          "title": "청년고용촉진 특별법 일부개정법률안(김주영의원 등 11인), 의안번호 2220033",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_H2F6F0E7F0M7N1M5K0K9I4K4Y2Z1X2",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-07-20"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "ppp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 국민의힘 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EA%B5%AD%EB%AF%BC%EC%9D%98%ED%9E%98_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_200_20260511_2.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "rkp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "assembly",
+          "title": "권리중심 중증장애인 맞춤형 공공일자리 지원 특별법안(서미화의원ㆍ김선민의원 등 21인), 의안번호 2206836",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_C2Y4X1X0W1U0C2D0C0B1Z2H4I6H2G5",
+          "publisher": "국회 의안정보시스템",
+          "date": "2024-12-23"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "reform": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "이준석, “이재명 공공의대 공약은 포퓰리즘… 구체성도, 실현 가능성도 없다”｜2025년 4월 23일",
+          "url": "https://reformparty.kr/news/press/357-press-373",
+          "publisher": "개혁신당",
+          "date": "2025-04-23"
+        },
+        {
+          "kind": "party",
+          "title": "김민규 대변인 | 공공부채 700조 시대, ‘아랫돌 돌려막기’로는 해결할 수 없습니다 | 2024년 6월 9일",
+          "url": "https://reformparty.kr/news/briefing/1013-briefing-346",
+          "publisher": "개혁신당",
+          "date": "2024-06-09"
+        }
+      ],
+      "last_verified": "2026-08-12",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 진보당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A7%84%EB%B3%B4%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_5010_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 정의당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A0%95%EC%9D%98%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_730_20260511_2.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-08",
+      "verified": true
+    }
+  },
+  "J1": {
+    "dp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "이재명, 사시부활·정시확대 공약 발표",
+          "url": "https://www.etnews.com/20220131000025",
+          "publisher": "전자신문",
+          "date": "2022-01-31"
+        },
+        {
+          "kind": "press",
+          "title": "이재명·윤석열 후보의 대입 정시 확대, 어느 수준일까?",
+          "url": "https://www.edpl.co.kr/news/articleView.html?idxno=4383",
+          "publisher": "교육플러스",
+          "date": "2022-01-31"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "ppp": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "[단독] 윤석열 \"정시 모집 비율 확대하고 대입전형 단순화\"",
+          "url": "https://www.sedaily.com/NewsVIew/2629LN8BK9",
+          "publisher": "서울경제",
+          "date": "2022-02-24"
+        },
+        {
+          "kind": "press",
+          "title": "[안선회 칼럼] 제21대 국회의원 총선, 주요 정당 핵심교육공약 아십니까?",
+          "url": "https://www.eduinnews.co.kr/news/articleView.html?idxno=27510",
+          "publisher": "에듀인뉴스",
+          "date": "2020-03-18"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "rkp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "조국혁신당 10대 정책 5번 <교육혁신을 통해 \"계층이동사다리\"를 복원하겠습니다.> (교육)",
+          "url": "https://rebuildingkoreaparty.kr/news/policy-briefing//184",
+          "publisher": "조국혁신당",
+          "date": "2024-04-04"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "reform": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제89차 개혁신당 최고위원회의 모두발언ㅣ2026년 8월 6일",
+          "url": "https://reformparty.kr/news/press/204523-%ec%a0%9c89%ec%b0%a8-%ea%b0%9c%ed%98%81%ec%8b%a0%eb%8b%b9-%ec%b5%9c%ea%b3%a0%ec%9c%84%ec%9b%90%ed%9a%8c%ec%9d%98-%eb%aa%a8%eb%91%90%eb%b0%9c%ec%96%b82026%eb%85%84-8%ec%9b%94-6%ec%9d%bc",
+          "publisher": "개혁신당",
+          "date": "2026-08-06"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "진보당 김재연의 '대학 무상교육' 공약, 2025년부터 전면 무상으로",
+          "url": "https://www.vop.co.kr/A00001603150.html",
+          "publisher": "민중의소리",
+          "date": "2021-11-19"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "justice": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "대선판에서 사라진 교육 이슈…'정시 확대' 한 목소리에 희미해진 고교학점제",
+          "url": "https://www.khan.co.kr/national/education/article/202203031653001",
+          "publisher": "경향신문",
+          "date": "2022-03-03"
+        },
+        {
+          "kind": "press",
+          "title": "[안선회 칼럼] 제21대 국회의원 총선, 주요 정당 핵심교육공약 아십니까?",
+          "url": "https://www.eduinnews.co.kr/news/articleView.html?idxno=27510",
+          "publisher": "에듀인뉴스",
+          "date": "2020-03-18"
+        },
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 정의당(민주노동당) 정당정책",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_%EB%AF%BC%EC%A3%BC%EB%85%B8%EB%8F%99%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20250603/PDF/PARTY_PLC_PUB/007_730_20250530_5.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-30"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    }
+  },
+  "J2": {
+    "dp": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "[단독]민주당 교육위, 이재명에 '특목고·자사고 폐지' 공약 제안",
+          "url": "https://v.daum.net/v/20250530191540306",
+          "publisher": "동아일보",
+          "date": "2025-05-30"
+        },
+        {
+          "kind": "press",
+          "title": "자사고·외고·국제고 존치 확정…서열화 방치",
+          "url": "https://www.khan.co.kr/national/education/article/202401162112005",
+          "publisher": "경향신문",
+          "date": "2024-01-16"
+        },
+        {
+          "kind": "press",
+          "title": "공약서 빠진 '자사고·외고 폐지'…'유턴' 물 건너간 듯",
+          "url": "https://v.daum.net/v/20250710140605854?s=print_news",
+          "publisher": "이데일리",
+          "date": "2025-07-10"
+        },
+        {
+          "kind": "party",
+          "title": "[국회의원 정을호 국감보도] 민사고·외대부고·상산고·북일고 신입생 10명 중 7명이 수도권 출신",
+          "url": "https://theminjoo.kr/main/sub/news/view.php?brd=17&post=1206369&search=&sno=1080",
+          "publisher": "더불어민주당",
+          "date": "2024-10-11"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "ppp": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "尹당선인 공약 '자사고·외고 존치'…국정과제에 포함",
+          "url": "https://www.fnnews.com/news/202204202225222930",
+          "publisher": "파이낸셜뉴스",
+          "date": "2022-04-20"
+        },
+        {
+          "kind": "press",
+          "title": "자사고·외고·국제고 존치 확정…서열화 방치",
+          "url": "https://www.khan.co.kr/national/education/article/202401162112005",
+          "publisher": "경향신문",
+          "date": "2024-01-16"
+        },
+        {
+          "kind": "press",
+          "title": "이주호 \"'자사고·외고 존치' 사교육 유발 막겠다…선행학습 규제 강화\"[일문일답]",
+          "url": "https://www.newsis.com/view/NISX20240116_0002594442",
+          "publisher": "뉴시스",
+          "date": "2024-01-16"
+        },
+        {
+          "kind": "party",
+          "title": "[조정훈 의원실] ‘지역인재 20%’ 의무화?… 민사고 13%·상산고 19%뿐",
+          "url": "https://www.peoplepowerparty.kr/news/lawmaker_press_view/110648?page=1",
+          "publisher": "국민의힘",
+          "date": "2025-11-07"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "rkp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "조국혁신당 10대 정책 5번 <교육혁신을 통해 \"계층이동사다리\"를 복원하겠습니다.> (교육)",
+          "url": "https://rebuildingkoreaparty.kr/news/policy-briefing//184",
+          "publisher": "조국혁신당",
+          "date": "2024-04-04"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "reform": {
+      "score": 3,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "개혁신당 선대위, 경기 화성정 거리유세 주요 발언 | 2024년 3월 30일",
+          "url": "https://reformparty.kr/news/press/38-press-64",
+          "publisher": "개혁신당",
+          "date": "2024-03-30"
+        }
+      ],
+      "last_verified": "2026-08-14",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 4,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "진보당 김재연의 '대학 무상교육' 공약, 2025년부터 전면 무상으로",
+          "url": "https://www.vop.co.kr/A00001603150.html",
+          "publisher": "민중의소리",
+          "date": "2021-11-19"
+        },
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 진보당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A7%84%EB%B3%B4%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_5010_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "justice": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "자사고·외고·국제고 존치 확정…서열화 방치",
+          "url": "https://www.khan.co.kr/national/education/article/202401162112005",
+          "publisher": "경향신문",
+          "date": "2024-01-16"
+        },
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 정의당(민주노동당) 정당정책",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_%EB%AF%BC%EC%A3%BC%EB%85%B8%EB%8F%99%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20250603/PDF/PARTY_PLC_PUB/007_730_20250530_5.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-30"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    }
+  },
+  "J3": {
+    "dp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "서울시 학생인권조례 폐지 확정… 교육청 \"대법에 무효 소송\" 반발",
+          "url": "https://www.seoul.co.kr/news/society/education-news/2024/06/26/20240626009003",
+          "publisher": "서울신문",
+          "date": "2024-06-25"
+        },
+        {
+          "kind": "press",
+          "title": "[이로운체크]서울시의회, 학생인권조례 또 폐지...정근식 교육감 \"재판 중인데 강행...재의 요구\"",
+          "url": "https://www.eroun.net/news/articleView.html?idxno=69250",
+          "publisher": "이로운넷",
+          "date": "2025-12-16"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "ppp": {
+      "score": 5,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "민주당 이견으로 지연되는 ‘교권보호 4법’. 대한민국 교사들의 울타리가 될 법안 통과, 더는 미룰 수 없다. [국민의힘 유상범 수석대변인 논평]",
+          "url": "https://www.peoplepowerparty.kr/news/comment_view/BBSDD0001/97889",
+          "publisher": "국민의힘",
+          "date": "2023-09-11"
+        },
+        {
+          "kind": "press",
+          "title": "서울시 학생인권조례 폐지 확정… 교육청 \"대법에 무효 소송\" 반발",
+          "url": "https://www.seoul.co.kr/news/society/education-news/2024/06/26/20240626009003",
+          "publisher": "서울신문",
+          "date": "2024-06-25"
+        },
+        {
+          "kind": "press",
+          "title": "[이로운체크]서울시의회, 학생인권조례 또 폐지...정근식 교육감 \"재판 중인데 강행...재의 요구\"",
+          "url": "https://www.eroun.net/news/articleView.html?idxno=69250",
+          "publisher": "이로운넷",
+          "date": "2025-12-16"
+        }
+      ],
+      "last_verified": "2026-08-17",
+      "verified": true
+    },
+    "rkp": {
+      "score": 2,
+      "sources": [
+        {
+          "kind": "press",
+          "title": "혁신당 강경숙 \"서울시의회, 학생인권조례 폐지안 철회하라\"",
+          "url": "https://www.m-economynews.com/news/article.html?no=63377",
+          "publisher": "M이코노미뉴스",
+          "date": "2026-01-06"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "reform": {
+      "score": 3,
+      "sources": [],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "jinbo": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 진보당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A7%84%EB%B3%B4%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_5010_20260507_1.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    },
+    "justice": {
+      "score": 1,
+      "sources": [
+        {
+          "kind": "party",
+          "title": "제9회 전국동시지방선거 정의당 정당정책 (10대 정책)",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20260603_%EC%A0%95%EC%9D%98%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20260603/PDF/PARTY_PLC_PUB/007_730_20260511_2.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2026-05-11"
+        },
+        {
+          "kind": "party",
+          "title": "제21대 대통령선거 정의당(민주노동당) 정당정책",
+          "url": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20250603_%EB%AF%BC%EC%A3%BC%EB%85%B8%EB%8F%99%EB%8B%B9_%EC%A0%95%EB%8B%B9%EC%A0%95%EC%B1%85.pdf&requestedFullPath=20250603/PDF/PARTY_PLC_PUB/007_730_20250530_5.pdf",
+          "publisher": "중앙선거관리위원회 정책·공약마당",
+          "date": "2025-05-30"
+        }
+      ],
+      "last_verified": "2026-08-15",
+      "verified": true
+    }
+  }
+}

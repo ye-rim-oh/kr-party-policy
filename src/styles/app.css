@@ -1,0 +1,873 @@
+/* ── 레이아웃 ─────────────────────────────────────────────── */
+
+.page {
+  width: min(100% - 2.5rem, var(--page));
+  margin-inline: auto;
+}
+.page--narrow {
+  width: min(100% - 2.5rem, var(--column));
+}
+
+.app {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+.app > main {
+  flex: 1;
+  padding-block: clamp(2rem, 4vw, 3.25rem) 5rem;
+}
+
+.stack-lg > * + * {
+  margin-top: 3.25rem;
+}
+.stack > * + * {
+  margin-top: 1rem;
+}
+
+/* ── 헤더 ─────────────────────────────────────────────────── */
+
+.masthead {
+  border-bottom: 1px solid var(--rule);
+  background: var(--paper);
+  position: sticky;
+  top: 0;
+  z-index: 40;
+}
+
+.masthead__inner {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  min-height: 56px;
+}
+
+.nav {
+  display: flex;
+  gap: 1.1rem;
+}
+.nav a {
+  font-size: 0.92rem;
+  color: var(--ink-faint);
+  text-decoration: none;
+  padding-block: 0.15rem;
+  border-bottom: 1px solid transparent;
+  white-space: nowrap;
+}
+.nav a:hover {
+  color: var(--ink);
+}
+.nav a.is-active {
+  color: var(--ink);
+  font-weight: 600;
+  border-bottom-color: var(--ink);
+}
+
+/* ── 푸터 ─────────────────────────────────────────────────── */
+
+.colophon {
+  border-top: 1px solid var(--rule);
+  padding-block: 2.5rem 3rem;
+  font-size: 0.9rem;
+  color: var(--ink-muted);
+}
+.colophon__grid {
+  max-width: 68ch;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.colophon p {
+  margin-bottom: 0.65rem;
+  max-width: 60ch;
+}
+.colophon ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.colophon li {
+  margin-bottom: 0.3rem;
+}
+.colophon .label {
+  display: block;
+  margin-bottom: 0.7rem;
+}
+
+/* ── 표제 ─────────────────────────────────────────────────── */
+
+.title-block {
+  max-width: 60ch;
+}
+.title-block h1 {
+  font-size: clamp(1.7rem, 1.15rem + 2.1vw, 2.6rem);
+  line-height: 1.2;
+  letter-spacing: -0.032em;
+}
+.title-block .standfirst {
+  margin-top: 0.9rem;
+  font-size: clamp(1.05rem, 1rem + 0.3vw, 1.2rem);
+  line-height: 1.72;
+  color: var(--ink-muted);
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.section-title {
+  display: flex;
+  align-items: baseline;
+  gap: 0.85rem;
+  margin-bottom: 1.1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--ink);
+}
+.section-title h2 {
+  font-size: 1rem;
+}
+.section-title .count {
+  font-size: 0.8125rem;
+  color: var(--ink-faint);
+  margin-left: auto;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ── 홈: 카드가 아니라 목차 ───────────────────────────────── */
+
+.hero {
+  padding-bottom: clamp(2rem, 4vw, 3rem);
+}
+
+.contents {
+  margin-top: 2.5rem;
+  border-top: 1px solid var(--ink);
+  display: grid;
+  /* 세 행의 높이를 강제로 같게 맞춘다. 설명 길이가 달라도 행이 어긋나지 않는다. */
+  grid-auto-rows: 1fr;
+}
+
+.contents__item {
+  display: grid;
+  grid-template-columns: 2.75rem minmax(0, 13rem) minmax(0, 1fr) 8.5rem;
+  gap: 1.5rem;
+  align-items: center;
+  padding: 1.4rem 0.25rem;
+  border-bottom: 1px solid var(--rule);
+  text-decoration: none;
+}
+.contents__item:hover {
+  background: var(--paper-sunken);
+}
+.contents__no {
+  font-size: 0.8125rem;
+  color: var(--ink-ghost);
+  font-variant-numeric: tabular-nums;
+  align-self: center;
+}
+.contents__name {
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: -0.025em;
+}
+.contents__desc {
+  font-size: 0.94rem;
+  color: var(--ink-muted);
+  line-height: 1.7;
+}
+.contents__action {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--ink-muted);
+  text-align: right;
+  white-space: nowrap;
+  justify-self: end;
+}
+.contents__action::after {
+  content: ' →';
+  color: var(--ink-ghost);
+}
+.contents__item:hover .contents__action,
+.contents__item:hover .contents__action::after {
+  color: var(--ink);
+}
+@media (max-width: 860px) {
+  .contents__item {
+    grid-template-columns: 2.25rem minmax(0, 1fr) auto;
+    row-gap: 0.5rem;
+    align-items: baseline;
+  }
+  .contents__desc {
+    grid-column: 2 / -1;
+  }
+  .contents__action {
+    grid-column: 3;
+    grid-row: 1;
+  }
+}
+
+.bullets {
+  margin: 0;
+  padding-left: 1.15rem;
+  max-width: 68ch;
+  font-size: 0.98rem;
+  line-height: 1.85;
+  color: var(--ink-soft);
+}
+.bullets li + li {
+  margin-top: 0.25rem;
+}
+
+/* ── 고지 ─────────────────────────────────────────────────── */
+
+.disclosure {
+  border-left: 1px solid var(--rule-strong);
+  padding: 0.1rem 0 0.1rem 1.15rem;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  color: var(--ink-muted);
+  max-width: 68ch;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.disclosure > * + * {
+  margin-top: 0.7rem;
+}
+.disclosure strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.callout {
+  border-top: 1px solid var(--ink);
+  border-bottom: 1px solid var(--rule);
+  padding: 1.1rem 0 1.25rem;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  color: var(--ink-muted);
+  max-width: 68ch;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.callout h3 {
+  font-size: 0.95rem;
+  color: var(--ink);
+  margin-bottom: 0.5rem;
+}
+.callout > p + p {
+  margin-top: 0.6rem;
+}
+
+/* ── 컨트롤 ───────────────────────────────────────────────── */
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.55rem 0.9rem;
+  padding-block: 0.7rem;
+}
+.controls + .controls {
+  border-top: 1px solid var(--rule-soft);
+}
+
+.controls__label {
+  font-size: 0.8rem;
+  color: var(--ink-ghost);
+  flex: none;
+  width: 3.2rem;
+}
+
+.chipset {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15rem 0.9rem;
+}
+
+.chip-btn {
+  font-size: 0.875rem;
+  padding: 0.1rem 0;
+  border: 0;
+  background: none;
+  color: var(--ink-faint);
+  cursor: pointer;
+  white-space: nowrap;
+  border-bottom: 1px solid transparent;
+}
+.chip-btn:hover {
+  color: var(--ink);
+}
+.chip-btn[aria-pressed='true'] {
+  color: var(--ink);
+  font-weight: 600;
+  border-bottom-color: var(--ink);
+}
+.chip-btn[aria-pressed='false'] .swatch {
+  opacity: 0.3;
+}
+
+.search input {
+  width: 100%;
+  max-width: 22rem;
+  font: inherit;
+  font-size: 0.85rem;
+  padding: 0.3rem 0;
+  border: 0;
+  border-bottom: 1px solid var(--rule);
+  border-radius: 0;
+  background: none;
+  color: var(--ink);
+}
+.search input:focus {
+  outline: none;
+  border-bottom-color: var(--ink);
+}
+.search input::placeholder {
+  color: var(--ink-ghost);
+}
+
+.btn {
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.42rem 0.95rem;
+  border: 1px solid var(--rule-strong);
+  border-radius: var(--r);
+  background: var(--paper);
+  cursor: pointer;
+  white-space: nowrap;
+}
+.btn:hover {
+  border-color: var(--ink);
+}
+.btn--solid {
+  background: var(--ink);
+  color: var(--paper);
+  border-color: var(--ink);
+}
+.btn--solid:hover {
+  opacity: 0.85;
+}
+.btn--quiet {
+  border-color: transparent;
+  background: none;
+  color: var(--ink-faint);
+  font-weight: 400;
+  padding-inline: 0.35rem;
+}
+.btn--quiet:hover {
+  color: var(--ink);
+  border-color: transparent;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+.btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+.btn:disabled:hover {
+  border-color: var(--rule-strong);
+  opacity: 0.35;
+}
+
+/* ── 비교표 ───────────────────────────────────────────────── */
+
+.tablewrap {
+  overflow-x: auto;
+  border-top: 1px solid var(--ink);
+}
+
+table.matrix {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  min-width: 760px;
+  font-size: 0.92rem;
+}
+table.matrix th,
+table.matrix td {
+  vertical-align: top;
+  text-align: left;
+  padding: 0.8rem 0.7rem;
+  border-bottom: 1px solid var(--rule-soft);
+  vertical-align: middle;
+}
+/*
+ * overflow-x: auto인 .tablewrap은 overflow-y도 auto로 계산되어 스크롤 컨테이너가 된다.
+ * 그래서 이 안의 sticky는 페이지가 아니라 .tablewrap을 기준으로 잡힌다. top에 헤더 높이를
+ * 넣으면 그만큼 아래로 밀려 첫 행(영역 머리행)을 덮어 잘린 것처럼 보인다. top은 0이어야 한다.
+ */
+table.matrix thead th {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  background: var(--paper);
+  border-bottom: 1px solid var(--rule-strong);
+  font-size: 0.75rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+table.matrix thead th:first-child {
+  left: 0;
+  z-index: 4;
+  width: 44%;
+  min-width: 280px;
+  padding-left: 0.25rem;
+}
+table.matrix tbody th[scope='row'] {
+  position: sticky;
+  left: 0;
+  z-index: 2;
+  background: var(--paper);
+  font-weight: 400;
+  width: 44%;
+  min-width: 280px;
+  line-height: 1.55;
+  padding-left: 0.25rem;
+}
+table.matrix tbody tr:hover th[scope='row'],
+table.matrix tbody tr:hover td {
+  background: var(--paper-sunken);
+}
+/* colSpan 셀에 position: sticky를 걸면 가로 스크롤에서 내용이 잘린다. 고정하지 않는다. */
+table.matrix tr.group th {
+  background: var(--paper);
+  border-top: 1px solid var(--rule-strong);
+  border-bottom: 1px solid var(--rule-strong);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--ink-faint);
+  padding: 0.45rem 0.25rem;
+}
+
+.qref {
+  font-size: 0.75rem;
+  color: var(--ink-ghost);
+  margin-right: 0.55rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.partyhead {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.partyhead__note {
+  font-size: 0.68rem;
+  font-weight: 400;
+  color: var(--ink-ghost);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  padding: 0 0.25rem;
+  line-height: 1.5;
+}
+/*
+ * 정당 색 중에는 흰 바탕에서 거의 보이지 않는 밝은 색이 있다(정의당 #FFED00).
+ * 안쪽에 얇은 테를 둘러 어떤 색이든 형태가 남게 한다.
+ */
+.swatch {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  flex: none;
+  display: inline-block;
+  box-shadow: inset 0 0 0 1px rgb(0 0 0 / 0.22);
+}
+
+.rank__fill {
+  box-shadow: inset 0 0 0 1px rgb(0 0 0 / 0.14);
+}
+
+@media (prefers-color-scheme: dark) {
+  .swatch {
+    box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.28);
+  }
+  .rank__fill {
+    box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.18);
+  }
+}
+
+.stance {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.3rem;
+  white-space: nowrap;
+}
+.stance__label {
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.2;
+}
+/*
+ * 아직 코딩하지 못한 칸. 척도의 3(중립·모름)으로 보여 준다. 코딩된 3과 겉모습을 같게 두되,
+ * 붙어 있는 출처는 찬반의 근거가 아니라 참고자료이고 매칭 계산에서는 빠진다.
+ */
+.stance--none {
+  color: var(--ink-ghost);
+}
+
+/* 5칸 눈금. 왼쪽이 반대, 오른쪽이 찬성. 해당 위치의 칸만 채운다. */
+.mark {
+  display: inline-flex;
+  gap: 3px;
+}
+.mark i {
+  width: 12px;
+  height: 12px;
+  border-radius: 2px;
+  background: var(--sand);
+}
+
+/* 출처는 답변 아래에 따로 놓는다. 당=정당 공식, 국=국회 기록, 보=언론 보도. */
+.stance__srcs {
+  display: inline-flex;
+  gap: 3px;
+}
+.stance__src {
+  font-size: 0.7rem;
+  line-height: 1.45;
+  color: var(--ink-faint);
+  text-decoration: none;
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  padding: 0 0.24rem;
+}
+.stance__src:hover {
+  color: var(--paper);
+  background: var(--ink);
+  border-color: var(--ink);
+}
+.stance__src--press {
+  color: var(--ink-ghost);
+  border-style: dashed;
+}
+
+.empty {
+  padding: 3rem 0.25rem;
+  color: var(--ink-faint);
+  font-size: 0.875rem;
+}
+
+/* ── 설문 ─────────────────────────────────────────────────── */
+
+.quiz-head {
+  position: sticky;
+  top: 56px;
+  z-index: 30;
+  background: var(--paper);
+  border-bottom: 1px solid var(--ink);
+  padding-block: 0.65rem;
+  margin-bottom: 2rem;
+}
+.quiz-head__inner {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  flex-wrap: wrap;
+}
+.quiz-head__count {
+  font-size: 0.85rem;
+  color: var(--ink-muted);
+  font-variant-numeric: tabular-nums;
+}
+.quiz-head__count b {
+  color: var(--ink);
+  font-weight: 600;
+}
+.quiz-head__spacer {
+  flex: 1;
+}
+
+.qcard {
+  border: 0;
+  border-bottom: 1px solid var(--rule);
+  margin: 0;
+  padding: 1.15rem 0.25rem 1.25rem;
+}
+.qcard.is-answered {
+  background: var(--paper-sunken);
+  padding-inline: 0.75rem;
+}
+.qcard__legend {
+  /* 문항 텍스트가 fieldset legend라 위쪽 구분선에 딱 붙는다. 위 여백을 줘 띄운다. */
+  padding: 0.95rem 0 0;
+  display: flex;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+.qcard__text {
+  font-size: 1.08rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.55;
+}
+
+.likert {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 0.3rem;
+  margin-top: 0.9rem;
+  max-width: 34rem;
+}
+@media (max-width: 560px) {
+  .likert {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    max-width: none;
+  }
+}
+.likert label {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 0.85rem;
+  line-height: 1.35;
+  padding: 0.55rem 0.35rem;
+  border: 1px solid var(--rule);
+  border-radius: var(--r);
+  color: var(--ink-muted);
+  cursor: pointer;
+  min-height: 44px;
+}
+.likert label:hover {
+  border-color: var(--ink-faint);
+  color: var(--ink);
+}
+.likert input {
+  position: absolute;
+  opacity: 0;
+  inset: 0;
+  cursor: pointer;
+}
+.likert label:has(input:checked) {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--paper);
+  font-weight: 600;
+}
+.likert label:has(input:focus-visible) {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+}
+
+.qcard__foot {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.8rem;
+  flex-wrap: wrap;
+  font-size: 0.78rem;
+  color: var(--ink-ghost);
+  max-width: 34rem;
+}
+.weightset {
+  display: flex;
+  gap: 0.7rem;
+}
+.weightset button {
+  font-size: 0.78rem;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--ink-faint);
+  cursor: pointer;
+  border-bottom: 1px solid transparent;
+}
+.weightset button:hover {
+  color: var(--ink);
+}
+.weightset button[aria-pressed='true'] {
+  color: var(--ink);
+  font-weight: 600;
+  border-bottom-color: var(--ink);
+}
+.skip-btn {
+  margin-left: auto;
+}
+
+/* ── 결과 ─────────────────────────────────────────────────── */
+
+.ranking {
+  border-top: 1px solid var(--ink);
+}
+.rank {
+  display: grid;
+  grid-template-columns: 1.7rem minmax(6rem, 8.5rem) minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 0.9rem;
+  padding: 0.75rem 0.25rem;
+  border-bottom: 1px solid var(--rule);
+}
+.rank__no {
+  color: var(--ink-ghost);
+  font-size: 0.8125rem;
+  font-variant-numeric: tabular-nums;
+}
+.rank__name {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-weight: 600;
+  font-size: 0.96rem;
+  white-space: nowrap;
+}
+.rank__track {
+  height: 6px;
+  background: var(--sand);
+  min-width: 40px;
+}
+.rank__fill {
+  display: block;
+  height: 100%;
+  transition: width 0.4s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+.rank__score {
+  font-size: 1rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums lining-nums;
+  min-width: 3.6rem;
+  text-align: right;
+}
+.rank__score small {
+  font-size: 0.7rem;
+  font-weight: 400;
+  color: var(--ink-faint);
+}
+.rank--na .rank__score {
+  font-size: 0.78rem;
+  font-weight: 400;
+  color: var(--ink-ghost);
+}
+@media (max-width: 560px) {
+  .rank {
+    grid-template-columns: 1.3rem minmax(0, 1fr) auto;
+    row-gap: 0.4rem;
+  }
+  .rank__track {
+    grid-column: 1 / -1;
+  }
+}
+
+table.grid {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  min-width: 560px;
+  font-size: 0.88rem;
+}
+table.grid th,
+table.grid td {
+  padding: 0.5rem 0.6rem;
+  border-bottom: 1px solid var(--rule-soft);
+  text-align: center;
+}
+table.grid thead th {
+  border-bottom: 1px solid var(--rule-strong);
+  font-size: 0.75rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+table.grid th[scope='row'] {
+  text-align: left;
+  white-space: nowrap;
+  font-weight: 400;
+  color: var(--ink-muted);
+  padding-left: 0.25rem;
+}
+table.grid td {
+  font-variant-numeric: tabular-nums lining-nums;
+}
+table.grid td.na {
+  color: var(--ink-ghost);
+  font-size: 0.75rem;
+}
+
+.agreement {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+  gap: 1.25rem 2.5rem;
+}
+.agreement__col h3 {
+  font-size: 0.8125rem;
+  letter-spacing: 0.04em;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--ink);
+  margin-bottom: 0.35rem;
+}
+.agreement__item {
+  display: flex;
+  gap: 0.6rem;
+  align-items: baseline;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--rule-soft);
+  font-size: 0.82rem;
+  line-height: 1.55;
+}
+.agreement__mark {
+  flex: none;
+  font-size: 0.7rem;
+  line-height: 1.8;
+}
+.agreement__mark--agree {
+  color: var(--agree);
+}
+.agreement__mark--conflict {
+  color: var(--conflict);
+}
+.agreement__gloss {
+  color: var(--ink-faint);
+  font-size: 0.75rem;
+}
+
+/* ── 본문 페이지 ──────────────────────────────────────────── */
+
+.prose {
+  font-size: 1.05rem;
+  line-height: 1.85;
+  color: var(--ink-soft);
+  text-align: justify;
+  text-justify: inter-word;
+}
+.prose > * + * {
+  margin-top: 1rem;
+}
+.prose h2 {
+  margin-top: 3rem;
+  font-size: 1.05rem;
+  color: var(--ink);
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--ink);
+}
+.prose h3 {
+  margin-top: 2rem;
+  font-size: 0.95rem;
+  color: var(--ink);
+}
+.prose ul,
+.prose ol {
+  padding-left: 1.15rem;
+}
+.prose li + li {
+  margin-top: 0.4rem;
+}
+.prose blockquote {
+  margin-inline: 0;
+  padding: 0.1rem 0 0.1rem 1.15rem;
+  border-left: 1px solid var(--rule-strong);
+  font-size: 0.9rem;
+  color: var(--ink-muted);
+}
+.prose code {
+  font-family: var(--mono);
+  font-size: 0.85em;
+  background: var(--paper-sunken);
+  padding: 0.1em 0.35em;
+  border-radius: var(--r-sm);
+}
+.prose .formula {
+  padding: 1.1rem 1rem;
+  border-block: 1px solid var(--rule);
+  text-align: center;
+  overflow-x: auto;
+  font-variant-numeric: tabular-nums;
+}

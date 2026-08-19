@@ -1,0 +1,236 @@
+/*
+ * 디자인 원칙
+ *
+ * 1. 색은 무채색과 흰색뿐이다. 유채색은 정당을 가리킬 때만 쓴다. 사이트가 특정 색을
+ *    정체성으로 삼으면 어느 정당의 상징색으로 읽힐 수 있다.
+ * 2. 대시보드가 아니라 인쇄물처럼 읽히게 한다. 스탯 타일, 게이지, 진행 미터 같은
+ *    계기판 장치를 두지 않는다. 수치는 문장 안에서 말한다.
+ * 3. 면과 그림자로 층을 만들지 않는다. 구획은 1px 괘선과 여백이 담당한다.
+ * 4. 서체는 Pretendard Variable 하나. 숫자는 tabular-nums로 자릿수를 맞춘다.
+ * 5. 그라디언트, 글래스모피즘, 네온 액센트 없음.
+ */
+
+@import 'pretendard/dist/web/variable/pretendardvariable-dynamic-subset.css';
+
+:root {
+  /* 바탕 — 흰색과 무채색 */
+  --paper: #ffffff;
+  --paper-sunken: #f6f6f7;
+  --sand: #ececee;
+
+  /* 글자 — 중성 회색, 색기 없음 */
+  --ink: #16161a;
+  --ink-soft: #3a3a40;
+  --ink-muted: #5d5d65;
+  --ink-faint: #8a8a92;
+  --ink-ghost: #b0b0b7;
+
+  --rule: #e3e3e6;
+  --rule-soft: #eeeef0;
+  --rule-strong: #c8c8ce;
+
+  --sans: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, system-ui,
+    'Segoe UI', 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif;
+  --mono: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+
+  --r-sm: 3px;
+  --r: 5px;
+
+  --page: 1080px;
+  --column: 640px;
+
+  --agree: #43614a;
+  --conflict: #8f3f2e;
+
+  /*
+   * 찬반 척도 색. 한국 정치에서 파랑·빨강은 특정 정당의 상징색으로 읽히므로,
+   * 정당 색(민주 #152484, 국힘 #E61E2B)과 확실히 구분되는 채도·명도를 골랐다.
+   * 이 색은 "찬성/반대"라는 방향만 가리키며 정당을 가리키지 않는다.
+   */
+  --for-2: #2b62b5;
+  --for-1: #7fa6d9;
+  --mid: #a3a3ab;
+  --against-1: #d79b8c;
+  --against-2: #b1462f;
+
+  /* 같은 색을 글자에 쓰면 대비가 모자란다(찬성 #7fa6d9는 흰 바탕에서 약 2.4:1).
+     채움용과 글자용을 나눠, 글자는 모두 4.5:1을 넘게 어둡힌다. */
+  --for-2-ink: #1d4f9e;
+  --for-1-ink: #3b6ea8;
+  --mid-ink: #67676f;
+  --against-1-ink: #9c5541;
+  --against-2-ink: #96341f;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #0f0f11;
+    --paper-sunken: #17171b;
+    --sand: #26262b;
+
+    --ink: #f0f0f2;
+    --ink-soft: #cdcdd3;
+    --ink-muted: #9d9da6;
+    --ink-faint: #77777f;
+    --ink-ghost: #5b5b63;
+
+    --rule: #2a2a2f;
+    --rule-soft: #212126;
+    --rule-strong: #43434a;
+
+    --agree: #93b89b;
+    --conflict: #d98d78;
+
+    --for-2: #6fa3e8;
+    --for-1: #3f6899;
+    --mid: #71717a;
+    --against-1: #96574a;
+    --against-2: #e08a72;
+
+    --for-2-ink: #8cb8f0;
+    --for-1-ink: #6f9ad0;
+    --mid-ink: #a1a1aa;
+    --against-1-ink: #d69384;
+    --against-2-ink: #ea9b84;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scrollbar-gutter: stable;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 17px;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+
+  /* 한글은 기본 규칙대로 두면 어절 한가운데서 줄이 바뀐다. 어절 단위로만 끊는다. */
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+
+::selection {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+a {
+  color: inherit;
+  text-decoration-color: var(--rule-strong);
+  text-underline-offset: 0.22em;
+  text-decoration-thickness: 1px;
+}
+a:hover {
+  text-decoration-color: currentColor;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+}
+
+:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  font-weight: 600;
+  letter-spacing: -0.022em;
+  line-height: 1.3;
+  text-wrap: balance;
+}
+
+/*
+ * 제목의 절을 감싸는 단위. inline-block이라 줄바꿈은 절과 절 사이에서만 일어나고,
+ * 절 안에서 문장이 어색하게 끊기지 않는다. 폭이 모자라면 절 내부에서도 어절 단위로 접힌다.
+ */
+.clause {
+  display: inline-block;
+}
+
+/*
+ * 본문 단락은 양쪽 정렬. 한글은 어절 단위로만 끊기므로(keep-all) 낱말 사이가
+ * 과하게 벌어질 수 있어, 문단 폭을 좁게 유지하는 곳에만 적용한다.
+ */
+.justify {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+p {
+  margin: 0;
+  text-wrap: pretty;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  margin: 0;
+}
+
+/* 표·순위처럼 숫자가 세로로 정렬되어야 하는 자리 */
+.num {
+  font-variant-numeric: tabular-nums lining-nums;
+  letter-spacing: 0;
+}
+
+.label {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: var(--ink-faint);
+}
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+}
+.skip-link:focus {
+  left: 1rem;
+  top: 1rem;
+  z-index: 100;
+  background: var(--ink);
+  color: var(--paper);
+  padding: 0.5rem 1rem;
+  border-radius: var(--r);
+}
+
+.vh {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

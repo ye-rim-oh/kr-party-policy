@@ -1,0 +1,8 @@
+[
+  { "id": "dp",      "name": "더불어민주당", "short": "민주", "color": "#152484", "inAssembly": true },
+  { "id": "ppp",     "name": "국민의힘",     "short": "국힘", "color": "#E61E2B", "inAssembly": true },
+  { "id": "rkp",     "name": "조국혁신당",   "short": "혁신", "color": "#0073CF", "inAssembly": true },
+  { "id": "reform",  "name": "개혁신당",     "short": "개혁", "color": "#FF7210", "inAssembly": true },
+  { "id": "jinbo",   "name": "진보당",       "short": "진보", "color": "#D6001C", "inAssembly": true },
+  { "id": "justice", "name": "정의당",       "short": "정의", "color": "#FFED00", "inAssembly": false }
+]
