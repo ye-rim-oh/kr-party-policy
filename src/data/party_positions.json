@@ -242,9 +242,16 @@
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256379",
           "publisher": "오마이뉴스",
           "date": "2026-08-04"
+        },
+        {
+          "kind": "assembly",
+          "title": "종합부동산세법 일부개정법률안(윤종오의원 등 10인)",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2S6Q0Q3J1I7H1O3U2U6R1P1O7N7T9",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-04-08"
         }
       ],
-      "last_verified": "2026-08-17",
+      "last_verified": "2026-08-19",
       "verified": true
     },
     "justice": {
@@ -579,9 +586,16 @@
           "url": "https://www.truthguardian.co.kr/news/article.html?no=28100",
           "publisher": "트루스가디언",
           "date": "2026-07-14"
+        },
+        {
+          "kind": "assembly",
+          "title": "국가재정법 일부개정법률안(박대출의원 대표발의)(의안번호 2117428) - 재정준칙 법제화(관리재정수지 적자 GDP 3% 이내, 국가채무비율 60% 초과 시 2% 이내로 제한) 심사, 제407회 국회(임시회) 제2차 기획재정위원회(경제재정소위원회) 회의록",
+          "url": "https://record.assembly.go.kr/assembly/viewer/minutes/xml.do?id=47429&type=view&item=item11",
+          "publisher": "국회 회의록",
+          "date": "2023-06-27"
         }
       ],
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-19",
       "verified": true
     },
     "rkp": {
@@ -2873,9 +2887,16 @@
           "url": "http://v.daum.net/v/20240518073151634",
           "publisher": "뉴스1",
           "date": "2024-05-18"
+        },
+        {
+          "kind": "assembly",
+          "title": "대한민국헌법 개정안 (의안번호 2218099) — 우원식 국회의장 등 187인 발의, 조국혁신당 소속 의원 전원 공동발의 (대통령 4년 중임제 등 권력구조 개편 포함)",
+          "url": "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_M2A6F0G4E0U3T1Z7E5L6I3A1T5D3N9&currMenuNo=2600044",
+          "publisher": "국회 의안정보시스템",
+          "date": "2026-04-03"
         }
       ],
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-08-19",
       "verified": true
     },
     "reform": {
@@ -3471,9 +3492,16 @@
           "url": "http://v.daum.net/v/20240130162407182",
           "publisher": "파이낸셜뉴스",
           "date": "2024-01-30"
+        },
+        {
+          "kind": "assembly",
+          "title": "병역법 일부개정법률안(김미애의원 등 11인) — 의안번호 2212238, 국방위원회 회부",
+          "url": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_I2M5L0U8V1T2S1Q1Y1Z7Y4W8V1W3E0",
+          "publisher": "국회 의안정보시스템",
+          "date": "2025-08-19"
         }
       ],
-      "last_verified": "2026-08-17",
+      "last_verified": "2026-08-19",
       "verified": true
     },
     "rkp": {

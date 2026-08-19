@@ -47,7 +47,7 @@ function kindFromUrl(url, fallback) {
   } catch {
     return fallback;
   }
-  if (host.endsWith('likms.assembly.go.kr')) return 'assembly';
+  if (host.endsWith('likms.assembly.go.kr') || host.endsWith('record.assembly.go.kr')) return 'assembly';
   if (PARTY_HOSTS.some((h) => host === h || host.endsWith('.' + h))) return 'party';
   return fallback === 'assembly' ? 'press' : fallback;
 }

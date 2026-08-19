@@ -86,7 +86,7 @@ try {
 }
 if (questionsMd) {
   const mdText = new Map();
-  for (const line of questionsMd.split('\n')) {
+  for (const line of questionsMd.split(/\r?\n/)) {
     const m = line.match(/^([A-J]\d+)\.\s+(.*)$/);
     if (m) mdText.set(m[1], m[2].trim());
   }
