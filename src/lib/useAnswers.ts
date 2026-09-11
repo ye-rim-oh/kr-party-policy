@@ -28,8 +28,10 @@ function read(): AnswerMap {
  * 설문 응답을 localStorage에 담아 두는 훅.
  * 응답은 브라우저 밖으로 나가지 않는다.
  */
-export function useAnswers() {
-  const [answers, setAnswers] = useState<AnswerMap>(() => read());
+export function useAnswers(options?: { resetOnMount?: boolean }) {
+  const [answers, setAnswers] = useState<AnswerMap>(() =>
+    options?.resetOnMount ? {} : read()
+  );
 
   useEffect(() => {
     try {

@@ -13,7 +13,7 @@ const WEIGHTS: { value: Weight; label: string }[] = [
 ];
 
 export function Match() {
-  const { answers, setScore, setWeight, reset } = useAnswers();
+  const { answers, setScore, setWeight, reset } = useAnswers({ resetOnMount: true });
   const [view, setView] = useState<'quiz' | 'result'>('quiz');
   const [filter, setFilter] = useState<'all' | 'todo'>('all');
 
