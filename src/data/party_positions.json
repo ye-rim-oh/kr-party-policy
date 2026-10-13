@@ -400,9 +400,16 @@
           "url": "https://newseyes.net/news/4559",
           "publisher": "뉴스아이즈",
           "date": "2025-07-07"
+        },
+        {
+          "kind": "party",
+          "title": "국민이 반대하는 25만 원 소비쿠폰 지급, 라벨까지 바꾸어가며 추경안에 넣는 이유가 대체 무엇입니까? [국민의힘 김대식 원내수석대변인 논평]",
+          "url": "https://www.peoplepowerparty.kr/news/comment_view/BBSDD0002/105464",
+          "publisher": "국민의힘",
+          "date": "2025-02-23"
         }
       ],
-      "last_verified": "2026-08-11",
+      "last_verified": "2026-10-13",
       "verified": true
     },
     "rkp": {
@@ -3788,9 +3795,16 @@
           "url": "https://www.womennews.co.kr/news/articleView.html?idxno=261706",
           "publisher": "여성신문",
           "date": "2025-05-07"
+        },
+        {
+          "kind": "party",
+          "title": "[신장식 의원실] 조국혁신당 신장식 의원, ‘성평등임금공시’ 법안 발의 기자회견",
+          "url": "https://rebuildingkoreaparty.kr/news/press-release/3333",
+          "publisher": "조국혁신당",
+          "date": "2025-03-06"
         }
       ],
-      "last_verified": "2026-08-14",
+      "last_verified": "2026-10-13",
       "verified": true
     },
     "reform": {
